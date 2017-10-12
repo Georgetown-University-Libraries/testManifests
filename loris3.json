@@ -1,74 +1,351 @@
-{
-  "description": "Script-generated, single directory manifest for demo purposes.",
-  "label": "Group_of_Images_and_Documents",
-  "sequences": [{
-    "canvases": [{
-      "height": 5058,
-      "width": 4060,
-      "images": [{
-        "on": "https://repository-dev.library.georgetown.edu/loris",
-        "motivation": "sc:painting",
-        "resource": {
-          "service": {
-            "profile": {
-              "supports": [
-                "regionByPx",
-                "sizeByW",
-                "sizeByWhListed",
-                "cors",
-                "regionSquare",
-                "sizeByDistortedWh",
-                "sizeAboveFull",
-                "canonicalLinkHeader",
-                "sizeByConfinedWh",
-                "sizeByPct",
-                "jsonldMediaType",
-                "regionByPct",
-                "rotationArbitrary",
-                "sizeByH",
-                "baseUriRedirect",
-                "rotationBy90s",
-                "profileLinkHeader",
-                "sizeByForcedWh",
-                "sizeByWh",
-                "mirroring"
-              ],
-              "qualities": [
-                "bitonal",
-                "default",
-                "gray",
-                "color"
-              ],
-              "maxArea": 400000000,
-              "formats": [
-                "tif",
-                "jpg",
-                "gif",
-                "png"
-              ]
-            },
-            "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00003.tif"
-          },
-          "format": "image/jpeg",
-          "height": 5058,
-          "width": 4060,
-          "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00003.tif/full/full/0/default.jpg",
-          "@type": "dctypes:Image"
+{  
+  "description":"Script-generated, single directory manifest for demo purposes.",
+  "label":"Group_of_Images_and_Documents",
+  "sequences":[  
+    {  
+      "canvases":[  
+        {  
+          "height":4894,
+          "width":3572,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00001.tif"
+                },
+                "format":"image/jpeg",
+                "height":4894,
+                "width":3572,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00001.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTM-860903_B04_F36_00001.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
+          "@type":"sc:Canvas"
         },
-        "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://repository-dev.library.georgetown.edu/loris",
-        "@type": "oa:Annotation"
-      }],
-      "label": "GTM-860903_B04_F32_00003.tif",
-      "@id": "https://repository-dev.library.georgetown.edu/loris/5",
-      "@type": "sc:Canvas"
-    }],
-    "@id": "https://repository-dev.library.georgetown.edu/loris",
-    "@type": "sc:Sequence",
-    "label": "Sequence of Images"
-  }],
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://repository-dev.library.georgetown.edu/loris",
-  "@type": "sc:Manifest"
+        {  
+          "height":4892,
+          "width":3473,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00003.tif"
+                },
+                "format":"image/jpeg",
+                "height":4892,
+                "width":3473,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00003.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTM-860903_B04_F36_00003.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/2",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":4894,
+          "width":3572,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00004.tif"
+                },
+                "format":"image/jpeg",
+                "height":4894,
+                "width":3572,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00004.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTM-860903_B04_F36_00004.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/3",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":5058,
+          "width":4060,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00001.tif"
+                },
+                "format":"image/jpeg",
+                "height":5058,
+                "width":4060,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00001.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTM-860903_B04_F32_00001.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/4",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":5058,
+          "width":4060,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00003.tif"
+                },
+                "format":"image/jpeg",
+                "height":5058,
+                "width":4060,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00003.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTM-860903_B04_F32_00003.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/5",
+          "@type":"sc:Canvas"
+        }
+      ],
+      "@id":"https://repository-dev.library.georgetown.edu/loris",
+      "@type":"sc:Sequence",
+      "label":"Sequence of Images"
+    }
+  ],
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://repository-dev.library.georgetown.edu/loris",
+  "@type":"sc:Manifest"
 }

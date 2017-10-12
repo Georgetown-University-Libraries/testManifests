@@ -1,74 +1,351 @@
-{
-  "description": "Script-generated, single directory manifest for demo purposes.",
-  "label": "Group_of_Images",
-  "sequences": [{
-    "canvases": [{
-      "height": 6169,
-      "width": 8921,
-      "images": [{
-        "on": "https://repository-dev.library.georgetown.edu/loris",
-        "motivation": "sc:painting",
-        "resource": {
-          "service": {
-            "profile": {
-              "supports": [
-                "regionByPx",
-                "sizeByW",
-                "sizeByWhListed",
-                "cors",
-                "regionSquare",
-                "sizeByDistortedWh",
-                "sizeAboveFull",
-                "canonicalLinkHeader",
-                "sizeByConfinedWh",
-                "sizeByPct",
-                "jsonldMediaType",
-                "regionByPct",
-                "rotationArbitrary",
-                "sizeByH",
-                "baseUriRedirect",
-                "rotationBy90s",
-                "profileLinkHeader",
-                "sizeByForcedWh",
-                "sizeByWh",
-                "mirroring"
-              ],
-              "qualities": [
-                "bitonal",
-                "default",
-                "gray",
-                "color"
-              ],
-              "maxArea": 400000000,
-              "formats": [
-                "tif",
-                "jpg",
-                "gif",
-                "png"
-              ]
-            },
-            "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif"
-          },
-          "format": "image/jpeg",
-          "height": 6169,
-          "width": 8921,
-          "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif/full/full/0/default.jpg",
-          "@type": "dctypes:Image"
+{  
+  "description":"Script-generated, single directory manifest for demo purposes.",
+  "label":"Group_of_Images",
+  "sequences":[  
+    {  
+      "canvases":[  
+        {  
+          "height":6202,
+          "width":8988,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0005.tif"
+                },
+                "format":"image/jpeg",
+                "height":6202,
+                "width":8988,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0005.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0005.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
+          "@type":"sc:Canvas"
         },
-        "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://repository-dev.library.georgetown.edu/loris",
-        "@type": "oa:Annotation"
-      }],
-      "label": "PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif",
-      "@id": "https://repository-dev.library.georgetown.edu/loris/5",
-      "@type": "sc:Canvas"
-    }],
-    "@id": "https://repository-dev.library.georgetown.edu/loris",
-    "@type": "sc:Sequence",
-    "label": "Sequence of Images"
-  }],
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://repository-dev.library.georgetown.edu/loris",
-  "@type": "sc:Manifest"
+        {  
+          "height":6140,
+          "width":8915,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0006.tif"
+                },
+                "format":"image/jpeg",
+                "height":6140,
+                "width":8915,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0006.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0006.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/2",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":6127,
+          "width":8988,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0008.tif"
+                },
+                "format":"image/jpeg",
+                "height":6127,
+                "width":8988,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0008.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0008.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/3",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":6184,
+          "width":9026,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0010.tif"
+                },
+                "format":"image/jpeg",
+                "height":6184,
+                "width":9026,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0010.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0010.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/4",
+          "@type":"sc:Canvas"
+        },
+        {  
+          "height":6169,
+          "width":8921,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile":[  
+                    "http://iiif.io/api/image/2/level2.json",
+                    {  
+                      "supports":[  
+                        "regionByPx",
+                        "sizeByW",
+                        "sizeByWhListed",
+                        "cors",
+                        "regionSquare",
+                        "sizeByDistortedWh",
+                        "sizeAboveFull",
+                        "canonicalLinkHeader",
+                        "sizeByConfinedWh",
+                        "sizeByPct",
+                        "jsonldMediaType",
+                        "regionByPct",
+                        "rotationArbitrary",
+                        "sizeByH",
+                        "baseUriRedirect",
+                        "rotationBy90s",
+                        "profileLinkHeader",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "mirroring"
+                      ],
+                      "qualities":[  
+                        "bitonal",
+                        "default",
+                        "gray",
+                        "color"
+                      ],
+                      "maxArea":400000000,
+                      "formats":[  
+                        "tif",
+                        "jpg",
+                        "gif",
+                        "png"
+                      ]
+                    }
+                  ],
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif"
+                },
+                "format":"image/jpeg",
+                "height":6169,
+                "width":8921,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images/PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/5",
+          "@type":"sc:Canvas"
+        }
+      ],
+      "@id":"https://repository-dev.library.georgetown.edu/loris",
+      "@type":"sc:Sequence",
+      "label":"Sequence of Images"
+    }
+  ],
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://repository-dev.library.georgetown.edu/loris",
+  "@type":"sc:Manifest"
 }
