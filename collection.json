@@ -9,15 +9,15 @@
   "collections": [
   ],
   "manifests": [
-    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris1.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json",
       "@type": "sc:Manifest",
       "label" : "Loris 1"
     },
-    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris2.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
       "@type": "sc:Manifest",
       "label" : "Loris 2"
     },
-    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris3.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json",
       "@type": "sc:Manifest",
       "label" : "Loris 3"
     }
