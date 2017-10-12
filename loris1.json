@@ -48,7 +48,7 @@
                 "gif",
                 "png"
               ]
-            }],
+            },
             "@context": "http://iiif.io/api/image/2/context.json",
             "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript/0674.tif"
           },
@@ -61,15 +61,15 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript",
         "@type": "oa:Annotation"
-      }],
+      },
       "label": "0674.tif",
       "@id": "https://repository-dev.library.georgetown.edu/loris/5",
       "@type": "sc:Canvas"
-    }],
+    },
     "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript",
     "@type": "sc:Sequence",
     "label": "Sequence of Images"
-  }],
+  },
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript",
   "@type": "sc:Manifest"
