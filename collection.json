@@ -1,0 +1,25 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.org/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "Top Level Collection for Example Organization",
+  "description": "Description of Collection",
+  "attribution": "Provided by Example Organization",
+
+  "collections": [
+  ],
+  "manifests": [
+    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris1.json",
+      "@type": "sc:Manifest",
+      "label" : "Loris 1"
+    },
+    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris2.json",
+      "@type": "sc:Manifest",
+      "label" : "Loris 2"
+    },
+    { "@id": "https://gist.githubusercontent.com/terrywbrady/9211b4cbea13c53058acb6765cbaa5ad/raw/1c280be60abe80f96f41ed72efd327a990d11171/loris3.json",
+      "@type": "sc:Manifest",
+      "label" : "Loris 3"
+    }
+  ]
+}
