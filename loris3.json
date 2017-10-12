@@ -3,6 +3,7 @@
   "label":"Group_of_Images_and_Documents",
   "sequences":[  
     {  
+      "viewingHint":"paged",
       "canvases":[  
         {  
           "height":4894,
