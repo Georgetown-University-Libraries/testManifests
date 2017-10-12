@@ -6,7 +6,7 @@
       "height": 5058,
       "width": 4060,
       "images": {
-        "on": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents",
+        "on": "https://repository-dev.library.georgetown.edu/loris",
         "motivation": "sc:painting",
         "resource": {
           "service": {
@@ -57,18 +57,18 @@
           "@type": "dctypes:Image"
         },
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents",
+        "@id": "https://repository-dev.library.georgetown.edu/loris",
         "@type": "oa:Annotation"
       },
       "label": "GTM-860903_B04_F32_00003.tif",
       "@id": "https://repository-dev.library.georgetown.edu/loris/5",
       "@type": "sc:Canvas"
     },
-    "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents",
+    "@id": "https://repository-dev.library.georgetown.edu/loris",
     "@type": "sc:Sequence",
     "label": "Sequence of Images"
   },
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents",
+  "@id": "https://repository-dev.library.georgetown.edu/loris",
   "@type": "sc:Manifest"
 }
