@@ -2,12 +2,12 @@
 {
   "description": "Script-generated, single directory manifest for demo purposes.",
   "label": "Manuscript",
-  "sequences": {
+  "sequences": [{
     "viewingHint": "paged",
-    "canvases": {
+    "canvases": [{
       "height": 4183,
       "width": 2780,
-      "images": {
+      "images": [{
         "on": "https://repository-dev.library.georgetown.edu/loris",
         "motivation": "sc:painting",
         "resource": {
@@ -61,15 +61,15 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://repository-dev.library.georgetown.edu/loris",
         "@type": "oa:Annotation"
-      },
+      }],
       "label": "0674.tif",
       "@id": "https://repository-dev.library.georgetown.edu/loris/5",
       "@type": "sc:Canvas"
-    },
+    }],
     "@id": "https://repository-dev.library.georgetown.edu/loris",
     "@type": "sc:Sequence",
     "label": "Sequence of Images"
-  },
+  }],
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://repository-dev.library.georgetown.edu/loris",
   "@type": "sc:Manifest"

@@ -1,11 +1,11 @@
 {
   "description": "Script-generated, single directory manifest for demo purposes.",
   "label": "Group_of_Images",
-  "sequences": {
-    "canvases": {
+  "sequences": [{
+    "canvases": [{
       "height": 6169,
       "width": 8921,
-      "images": {
+      "images": [{
         "on": "https://repository-dev.library.georgetown.edu/loris",
         "motivation": "sc:painting",
         "resource": {
@@ -59,15 +59,15 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://repository-dev.library.georgetown.edu/loris",
         "@type": "oa:Annotation"
-      },
+      }],
       "label": "PICTURESQUE_VIEWS_OF_AMERICAN_SCENERY_0016.tif",
       "@id": "https://repository-dev.library.georgetown.edu/loris/5",
       "@type": "sc:Canvas"
-    },
+    }],
     "@id": "https://repository-dev.library.georgetown.edu/loris",
     "@type": "sc:Sequence",
     "label": "Sequence of Images"
-  },
+  }],
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://repository-dev.library.georgetown.edu/loris",
   "@type": "sc:Manifest"
