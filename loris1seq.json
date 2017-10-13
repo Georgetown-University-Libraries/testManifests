@@ -1,22 +1,29 @@
 {  
   "description":"Script-generated, single directory manifest for demo purposes.",
   "label":"Manuscript",
-  "sequences":[  
-    {  
-      "@id":"https://repository-dev.library.georgetown.edu/loris#s2",
-      "@type":"sc:Sequence",
-      "label":"Sequence of Images 2",
-      "viewingHint":"paged",
-      "canvases":[  
-        {  
-          "height":4147,
-          "width":2811,
-          "label":"S2 0007.tif",
-          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
-          "@type":"sc:Canvas"
-        }
+  "structures": [
+    {
+      "label":"Range 1",
+      "@id":"https://repository-dev.library.georgetown.edu/loris/1#range1",
+      "@type":"sc:Range",
+      "canvases": [
+        "https://repository-dev.library.georgetown.edu/loris/1",
+        "https://repository-dev.library.georgetown.edu/loris/2",
+        "https://repository-dev.library.georgetown.edu/loris/3"
       ]
     },
+    {
+      "label":"Range 2",
+      "@id":"https://repository-dev.library.georgetown.edu/loris/1#range2",
+      "@type":"sc:Range",
+      "canvases": [
+        "https://repository-dev.library.georgetown.edu/loris/4",
+        "https://repository-dev.library.georgetown.edu/loris/5"
+      ]
+    }
+    
+  ],
+  "sequences":[  
     {  
       "viewingHint":"paged",
       "canvases":[  
