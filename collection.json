@@ -9,7 +9,7 @@
   "collections": [
   ],
   "manifests": [
-    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json",
+    { "@id": "loris1.json",
       "@type": "sc:Manifest",
       "label" : "Loris 1"
     },

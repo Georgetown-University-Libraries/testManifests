@@ -1,0 +1,165 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Georgetown College journal, vol. 28, no. 6 (March 1900)",
+  "metadata": [
+    {
+      "label": "dc.contributor.other",
+      "value": "Georgetown University"
+    },
+    {
+      "label": "dc.coverage.spatial",
+      "value": "United States"
+    },
+    {
+      "label": "dc.coverage.spatial",
+      "value": "n-us---"
+    },
+    {
+      "label": "dc.date.accessioned",
+      "value": "2017-08-01T13:48:16Z"
+    },
+    {
+      "label": "dc.date.available",
+      "value": "2017-08-01T13:48:16Z"
+    },
+    {
+      "label": "dc.date.created",
+      "value": "1900-03"
+    },
+    {
+      "label": "dc.identifier.other",
+      "value": "GTA_278_0275"
+    },
+    {
+      "label": "dc.identifier.uri",
+      "value": "http://hdl.handle.net/10822/1044528"
+    },
+    {
+      "label": "dc.description",
+      "value": "Repository: Special Collections Research Center. For more information about this collection please email: speccoll@georgetown.edu."
+    },
+    {
+      "label": "dc.format.extent",
+      "value": "volumes"
+    },
+    {
+      "label": "dc.format.medium",
+      "value": "text"
+    },
+    {
+      "label": "dc.language",
+      "value": "English"
+    },
+    {
+      "label": "dc.publisher",
+      "value": "Georgetown University"
+    },
+    {
+      "label": "dc.rights",
+      "value": "All Rights Reserved by Georgetown University Library."
+    },
+    {
+      "label": "dc.subject.lcc",
+      "value": "LH1.G46 G4"
+    },
+    {
+      "label": "dc.subject.lcsh",
+      "value": "Georgetown University -- Periodicals"
+    },
+    {
+      "label": "dc.subject.lcsh",
+      "value": "Georgetown University -- Students -- Periodicals"
+    },
+    {
+      "label": "dc.subject.lcsh",
+      "value": "Student newspapers and periodicals -- Washington (D.C.)"
+    },
+    {
+      "label": "dc.subject.lcsh",
+      "value": "College students' writings, American -- Washington (D.C.)"
+    },
+    {
+      "label": "dc.title",
+      "value": "Georgetown College journal, vol. 28, no. 6 (March 1900)"
+    },
+    {
+      "label": "dc.type",
+      "value": "Periodical"
+    }
+  ],
+  "description": "Repository: Special Collections Research Center. For more information about this collection please email: speccoll@georgetown.edu.",
+  "license": "https://library.georgetown.edu/manifest.license?EDIT",
+  "attribution": "Manifest Attribution (EDIT)",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Sequence Label (EDIT)",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "label": "1. GUJournal_Vol28_No06.pdf",
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "64346519-0343-cb90-4487-8f627a1afaf8",
+              "@id": "https://library.georgetown.edu/2454e9de-cdb3-c882-e0e7-70801fbdd38a",
+              "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript/0007.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4147,
+                "width": 2811,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://repository-dev.library.georgetown.edu/loris/Manuscript/0007.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+          "height": 4147,
+          "width": 2811,
+          "@id": "https://library.georgetown.edu/f983dcf4-7bed-707e-08fa-82d83f4f0a0b"
+        },
+        {
+          "@type": "sc:Canvas",
+          "label": "2. bentham_pannomiom fragment_recto.jpg",
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "3cd625bf-0fb4-2181-4628-52dc6a0aa3d7",
+              "@id": "https://library.georgetown.edu/96868227-7d98-4539-cc43-b4fa48c8f2b4",
+              "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00001.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4894,
+                "width": 3572,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00001.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ],
+          "height": 4894,
+          "width": 3572,
+          "@id": "https://library.georgetown.edu/92f0aaa4-723a-6e5a-5787-253bab005b16"
+        }
+      ],
+      "@id": "https://library.georgetown.edu/cbb80b0b-8927-b70a-0baa-ce78cce6d08d"
+    }
+  ],
+  "structures": [],
+  "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
+  "seeAlso": "http://hdl.handle.net/10822/1044528",
+  "related": "https://library.georgetown.edu/related?EDIT",
+  "@id": "https://library.georgetown.edu/c91e5312-5e30-4197-a998-7e6744cdd400"
+}

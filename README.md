@@ -10,3 +10,8 @@ Experimental Manifests for IIIF
 - Embed manifest within manifest
 - Add metadata to image/canvas
 - Create manifest with multiple sequences
+- Test with relative references
+- PDF viewing in UV
+
+## References to online resources
+- http://ronallo.com/iiif-workshop/presentation/
