@@ -1,0 +1,44 @@
+{  
+  "description":"Script-generated, single directory manifest for demo purposes.",
+  "label":"Single_Images",
+  "sequences":[  
+    {  
+      "canvases":[  
+        {  
+          "height":6454,
+          "width":8000,
+          "images":[  
+            {  
+              "on":"https://repository-dev.library.georgetown.edu/loris",
+              "motivation":"sc:painting",
+              "resource":{  
+                "service":{  
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context":"http://iiif.io/api/image/2/context.json",
+                  "@id":"https://repository-dev.library.georgetown.edu/loris/Single_Images/GTW_BROSNAN_B090_E007.tif"
+                },
+                "format":"image/jpeg",
+                "height":6454,
+                "width":8000,
+                "@id":"https://repository-dev.library.georgetown.edu/loris/Single_Images/GTW_BROSNAN_B090_E007.tif/full/full/0/default.jpg",
+                "@type":"dctypes:Image"
+              },
+              "@context":"http://iiif.io/api/presentation/2/context.json",
+              "@id":"https://repository-dev.library.georgetown.edu/loris",
+              "@type":"oa:Annotation"
+            }
+          ],
+          "label":"GTW_BROSNAN_B090_E007.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
+          "@type":"sc:Canvas"
+        }
+      ],
+      "@id":"https://repository-dev.library.georgetown.edu/loris",
+      "@type":"sc:Sequence",
+      "label":"Sequence of Images"
+    }
+  ],
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"https://repository-dev.library.georgetown.edu/loris",
+  "@type":"sc:Manifest"
+}
