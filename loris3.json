@@ -14,46 +14,7 @@
               "motivation":"sc:painting",
               "resource":{  
                 "service":{  
-                  "profile":[  
-                    "http://iiif.io/api/image/2/level2.json",
-                    {  
-                      "supports":[  
-                        "regionByPx",
-                        "sizeByW",
-                        "sizeByWhListed",
-                        "cors",
-                        "regionSquare",
-                        "sizeByDistortedWh",
-                        "sizeAboveFull",
-                        "canonicalLinkHeader",
-                        "sizeByConfinedWh",
-                        "sizeByPct",
-                        "jsonldMediaType",
-                        "regionByPct",
-                        "rotationArbitrary",
-                        "sizeByH",
-                        "baseUriRedirect",
-                        "rotationBy90s",
-                        "profileLinkHeader",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "mirroring"
-                      ],
-                      "qualities":[  
-                        "bitonal",
-                        "default",
-                        "gray",
-                        "color"
-                      ],
-                      "maxArea":400000000,
-                      "formats":[  
-                        "tif",
-                        "jpg",
-                        "gif",
-                        "png"
-                      ]
-                    }
-                  ],
+                  "profile": "http://iiif.io/api/image/2/level2.json",
                   "@context":"http://iiif.io/api/image/2/context.json",
                   "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00001.tif"
                 },
@@ -81,46 +42,7 @@
               "motivation":"sc:painting",
               "resource":{  
                 "service":{  
-                  "profile":[  
-                    "http://iiif.io/api/image/2/level2.json",
-                    {  
-                      "supports":[  
-                        "regionByPx",
-                        "sizeByW",
-                        "sizeByWhListed",
-                        "cors",
-                        "regionSquare",
-                        "sizeByDistortedWh",
-                        "sizeAboveFull",
-                        "canonicalLinkHeader",
-                        "sizeByConfinedWh",
-                        "sizeByPct",
-                        "jsonldMediaType",
-                        "regionByPct",
-                        "rotationArbitrary",
-                        "sizeByH",
-                        "baseUriRedirect",
-                        "rotationBy90s",
-                        "profileLinkHeader",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "mirroring"
-                      ],
-                      "qualities":[  
-                        "bitonal",
-                        "default",
-                        "gray",
-                        "color"
-                      ],
-                      "maxArea":400000000,
-                      "formats":[  
-                        "tif",
-                        "jpg",
-                        "gif",
-                        "png"
-                      ]
-                    }
-                  ],
+                  "profile": "http://iiif.io/api/image/2/level2.json",
                   "@context":"http://iiif.io/api/image/2/context.json",
                   "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00003.tif"
                 },
@@ -148,46 +70,7 @@
               "motivation":"sc:painting",
               "resource":{  
                 "service":{  
-                  "profile":[  
-                    "http://iiif.io/api/image/2/level2.json",
-                    {  
-                      "supports":[  
-                        "regionByPx",
-                        "sizeByW",
-                        "sizeByWhListed",
-                        "cors",
-                        "regionSquare",
-                        "sizeByDistortedWh",
-                        "sizeAboveFull",
-                        "canonicalLinkHeader",
-                        "sizeByConfinedWh",
-                        "sizeByPct",
-                        "jsonldMediaType",
-                        "regionByPct",
-                        "rotationArbitrary",
-                        "sizeByH",
-                        "baseUriRedirect",
-                        "rotationBy90s",
-                        "profileLinkHeader",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "mirroring"
-                      ],
-                      "qualities":[  
-                        "bitonal",
-                        "default",
-                        "gray",
-                        "color"
-                      ],
-                      "maxArea":400000000,
-                      "formats":[  
-                        "tif",
-                        "jpg",
-                        "gif",
-                        "png"
-                      ]
-                    }
-                  ],
+                  "profile": "http://iiif.io/api/image/2/level2.json",
                   "@context":"http://iiif.io/api/image/2/context.json",
                   "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F36_00004.tif"
                 },
@@ -215,46 +98,7 @@
               "motivation":"sc:painting",
               "resource":{  
                 "service":{  
-                  "profile":[  
-                    "http://iiif.io/api/image/2/level2.json",
-                    {  
-                      "supports":[  
-                        "regionByPx",
-                        "sizeByW",
-                        "sizeByWhListed",
-                        "cors",
-                        "regionSquare",
-                        "sizeByDistortedWh",
-                        "sizeAboveFull",
-                        "canonicalLinkHeader",
-                        "sizeByConfinedWh",
-                        "sizeByPct",
-                        "jsonldMediaType",
-                        "regionByPct",
-                        "rotationArbitrary",
-                        "sizeByH",
-                        "baseUriRedirect",
-                        "rotationBy90s",
-                        "profileLinkHeader",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "mirroring"
-                      ],
-                      "qualities":[  
-                        "bitonal",
-                        "default",
-                        "gray",
-                        "color"
-                      ],
-                      "maxArea":400000000,
-                      "formats":[  
-                        "tif",
-                        "jpg",
-                        "gif",
-                        "png"
-                      ]
-                    }
-                  ],
+                  "profile": "http://iiif.io/api/image/2/level2.json",
                   "@context":"http://iiif.io/api/image/2/context.json",
                   "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00001.tif"
                 },
@@ -282,46 +126,7 @@
               "motivation":"sc:painting",
               "resource":{  
                 "service":{  
-                  "profile":[  
-                    "http://iiif.io/api/image/2/level2.json",
-                    {  
-                      "supports":[  
-                        "regionByPx",
-                        "sizeByW",
-                        "sizeByWhListed",
-                        "cors",
-                        "regionSquare",
-                        "sizeByDistortedWh",
-                        "sizeAboveFull",
-                        "canonicalLinkHeader",
-                        "sizeByConfinedWh",
-                        "sizeByPct",
-                        "jsonldMediaType",
-                        "regionByPct",
-                        "rotationArbitrary",
-                        "sizeByH",
-                        "baseUriRedirect",
-                        "rotationBy90s",
-                        "profileLinkHeader",
-                        "sizeByForcedWh",
-                        "sizeByWh",
-                        "mirroring"
-                      ],
-                      "qualities":[  
-                        "bitonal",
-                        "default",
-                        "gray",
-                        "color"
-                      ],
-                      "maxArea":400000000,
-                      "formats":[  
-                        "tif",
-                        "jpg",
-                        "gif",
-                        "png"
-                      ]
-                    }
-                  ],
+                  "profile": "http://iiif.io/api/image/2/level2.json",
                   "@context":"http://iiif.io/api/image/2/context.json",
                   "@id":"https://repository-dev.library.georgetown.edu/loris/Group_of_Images_and_Documents/GTM-860903_B04_F32_00003.tif"
                 },
