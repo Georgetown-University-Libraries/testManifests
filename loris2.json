@@ -2,10 +2,8 @@
   "description":"First edition of one of the earliest American color-plate publications. Title page and plates have legend: 'Painted by J. Shaw; engraved by J. Hill.' There are twenty hand-colored aquatint engravings. Issued in three parts with blue printed wrappers, 1820-21. Acquired from an undetermined source prior to 1970. This item has been digitized and conserved.",
   "label":"Picturesque views of American scenery : 1820",
   "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
-  "seeAlso": "http://hdl.handle.net/10822/557062",
-  "related": "http://hdl.handle.net/10822/557062",
-  "license": "Permission to copy or publish must be obtained from the Booth Family Center for Special Collections, Georgetown University Library.",
-  "attribution": "Booth Family Center for Special Collections, Georgetown University Library.",
+  "license": "https://www.library.georgetown.edu/special-collections/faq",
+  "attribution": "Permission to copy or publish must be obtained from the Booth Family Center for Special Collections, Georgetown University Library.",
   "metadata": [
     {
       "label": "Creator",
@@ -14,6 +12,10 @@
     {
       "label": "Creator",
       "value": "Hill, John, 1770-1850, engraver."
+    },
+    {
+      "label": "Item Record/Permalink",
+      "value": "http://hdl.handle.net/10822/557062"
     }
   ],
   "sequences":[  
