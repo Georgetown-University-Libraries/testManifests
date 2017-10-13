@@ -8,11 +8,14 @@ Experimental Manifests for IIIF
 - [Loris 3   ](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json)
 
 ## TODOs
-- Embed manifest within manifest 
-- Add metadata to image/canvas
-- Create manifest with multiple sequences (uv does not seem to render it, explore ranges)
-- Test with relative references (does not seem to work)
-- PDF viewing in UV
+- Find manifest.json attached to an item and render the IIIF logo
+- Enable the generation of a manifest for item bitstreams (original or other bundle)
+
+## Questions for the IIIF/UV Community
+- How to use a PDF in UV. What can UV do with a PDF that the default browser view cannot?
+- Can metadata be embedded and viewed in UV at a spot other than a manifest: Canvas or Range
+- Can a collection be created with inline manifests, or must each one exist separately
+
 
 ## References to online resources
 - http://ronallo.com/iiif-workshop/presentation/
