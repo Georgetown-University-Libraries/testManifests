@@ -23,6 +23,6 @@
             }
           ],
           "label":"0007.tif",
-          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
+          "@id":"https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C1.json",
           "@type":"sc:Canvas"
         }

@@ -5,11 +5,10 @@
     {  
       "viewingHint":"paged",
       "canvases":[  
-        "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C1.json",
-        "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C2.json",
-        "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C3.json",
-        "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C4.json",
-        "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C5.json"
+        { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/comp-loris1/loris1C1.json",
+          "@type": "sc:Canvas",
+          "label" : "Loris 1"
+        }
       ],
       "@id":"https://repository-dev.library.georgetown.edu/loris",
       "@type":"sc:Sequence",
