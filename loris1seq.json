@@ -3,6 +3,21 @@
   "label":"Manuscript",
   "sequences":[  
     {  
+      "@id":"https://repository-dev.library.georgetown.edu/loris#s2",
+      "@type":"sc:Sequence",
+      "label":"Sequence of Images 2",
+      "viewingHint":"paged",
+      "canvases":[  
+        {  
+          "height":4147,
+          "width":2811,
+          "label":"S2 0007.tif",
+          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
+          "@type":"sc:Canvas"
+        }
+      ]
+    },
+    {  
       "viewingHint":"paged",
       "canvases":[  
         {  
@@ -149,21 +164,6 @@
       "@id":"https://repository-dev.library.georgetown.edu/loris",
       "@type":"sc:Sequence",
       "label":"Sequence of Images"
-    },
-    {  
-      "@id":"https://repository-dev.library.georgetown.edu/loris#s2",
-      "@type":"sc:Sequence",
-      "label":"Sequence of Images 2",
-      "viewingHint":"paged",
-      "canvases":[  
-        {  
-          "height":4147,
-          "width":2811,
-          "label":"S2 0007.tif",
-          "@id":"https://repository-dev.library.georgetown.edu/loris/1",
-          "@type":"sc:Canvas"
-        }
-      ]
     }
   ],
   "@context":"http://iiif.io/api/presentation/2/context.json",
