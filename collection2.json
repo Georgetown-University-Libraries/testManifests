@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.org/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "Top Level Collection for Example Organization",
+  "description": "Description of Collection",
+  "attribution": "Provided by Example Organization",
+
+  "collections": [
+  {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://example.org/iiif/collection/sc1",
+    "@type": "sc:Collection",
+    "label": "SC1",
+    "description": "Description of Collection",
+    "attribution": "Provided by Example Organization",
+    "manifests": [
+      {
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 1"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 2"
+      },
+      { 
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 3"
+      }
+    ]
+  },
+  {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://example.org/iiif/collection/sc2",
+    "@type": "sc:Collection",
+    "label": "SC2",
+    "description": "Description of Collection",
+    "attribution": "Provided by Example Organization",
+    "manifests": [
+      { 
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 3"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 2"
+      }
+    ]
+  },
+  {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://example.org/iiif/collection/sc2",
+    "@type": "sc:Collection",
+    "label": "SC3",
+    "description": "Description of Collection",
+    "attribution": "Provided by Example Organization",
+    "manifests": [
+      { 
+        "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json",
+        "@type": "sc:Manifest",
+        "label" : "Loris 3"
+      }
+    ]
+  }    
+  ]    
+}
