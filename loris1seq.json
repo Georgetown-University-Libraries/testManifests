@@ -4,7 +4,7 @@
   "structures": [
     {
       "label":"Range Top",
-      "@id":"https://repository-dev.library.georgetown.edu/loris/1#rangeAll",
+      "@id":"https://repository-dev.library.georgetown.edu/loris/1#rangeTop",
       "viewingHint":"top",
       "@type":"sc:Range",
       "ranges": [
