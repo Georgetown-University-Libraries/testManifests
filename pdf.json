@@ -1,0 +1,49 @@
+
+{
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json",
+    "http://wellcomelibrary.org/ld/ixif/0/context.json"
+  ],
+  "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/pdf.json",
+  "@type": "sc:Manifest",
+  "label": "PDF Manifest",
+  "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
+  "related": {
+    "@id": "https://repository.library.georgetown.edu/handle/10822/557062",
+    "format": "text/html"
+  },
+  "seeAlso": [
+  ],
+  "mediaSequences": [
+    {
+      "@id": "https://repository.library.georgetown.edu/bitstream/handle/10822/557062/Picturesque_Views_Carey_small.pdf?sequence=1",
+      "@type": "ixif:MediaSequence",
+      "label": "XSequence 0",
+      "elements": [
+        {
+          "@id": "https://repository.library.georgetown.edu/bitstream/handle/10822/557062/Picturesque_Views_Carey_small.pdf?sequence=1",
+          "@type": "foaf:Document",
+          "format": "application/pdf",
+          "label": "Picturesque views of American scenery : 1820",
+          "metadata": [
+            {
+              "label": "pages",
+              "value": "52"
+            }
+          ],
+          "thumbnail": "https://repository.library.georgetown.edu/bitstream/handle/10822/557062/Picturesque_Views_Carey_small.pdf.jpg?sequence=4&isAllowed=y"
+        }
+      ]
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://wellcomelibrary.org/iiif/ixif-message/sequence/seq",
+      "@type": "sc:Sequence",
+      "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers.",
+      "compatibilityHint": "displayIfContentUnsupported",
+      "canvases": [
+      ]
+    }
+  ]
+}
