@@ -10,6 +10,9 @@
         "https://repository-dev.library.georgetown.edu/loris/1",
         "https://repository-dev.library.georgetown.edu/loris/2",
         "https://repository-dev.library.georgetown.edu/loris/3"
+      ],
+      "ranges" : [
+        "https://repository-dev.library.georgetown.edu/loris/1#rangeAll"
       ]
     },
     {
@@ -17,6 +20,21 @@
       "@id":"https://repository-dev.library.georgetown.edu/loris/1#range2",
       "@type":"sc:Range",
       "canvases": [
+        "https://repository-dev.library.georgetown.edu/loris/4",
+        "https://repository-dev.library.georgetown.edu/loris/5"
+      ],
+      "ranges" : [
+        "https://repository-dev.library.georgetown.edu/loris/1#rangeAll"
+      ]
+    },
+    {
+      "label":"Range All",
+      "@id":"https://repository-dev.library.georgetown.edu/loris/1#rangeAll",
+      "@type":"sc:Range",
+      "canvases": [
+        "https://repository-dev.library.georgetown.edu/loris/1",
+        "https://repository-dev.library.georgetown.edu/loris/2",
+        "https://repository-dev.library.georgetown.edu/loris/3",
         "https://repository-dev.library.georgetown.edu/loris/4",
         "https://repository-dev.library.georgetown.edu/loris/5"
       ]
