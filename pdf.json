@@ -35,15 +35,5 @@
         }
       ]
     }
-  ],
-  "sequences": [
-    {
-      "@id": "https://wellcomelibrary.org/iiif/ixif-message/sequence/seq",
-      "@type": "sc:Sequence",
-      "label": "Unsupported extension. This manifest is being used as a wrapper for non-IIIF content (e.g., audio, video) and is unfortunately incompatible with IIIF viewers.",
-      "compatibilityHint": "displayIfContentUnsupported",
-      "canvases": [
-      ]
-    }
   ]
 }
