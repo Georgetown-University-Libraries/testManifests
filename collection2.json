@@ -54,7 +54,7 @@
   },
   {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://example.org/iiif/collection/sc2",
+    "@id": "http://example.org/iiif/collection/sc3",
     "@type": "sc:Collection",
     "label": "SC3",
     "description": "Description of Collection",
