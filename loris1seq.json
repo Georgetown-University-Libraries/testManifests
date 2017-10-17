@@ -3,11 +3,11 @@
   "label":"Manuscript",
   "metadata": [
     {
-      "label": "label1",
+      "label": "Manuscript 1",
       "value": "Value L1A"
     },
     {
-      "label": "label2",
+      "label": "Manuscript 2",
       "value": "Value L2A"
     }
   ],
@@ -20,14 +20,13 @@
       "ranges": [
         "https://repository-dev.library.georgetown.edu/loris/1#rangeAll"
       ],
-      "description":"Desc One.",
       "metadata": [
         {
-          "label": "label1",
+          "label": "Range Top 1",
           "value": "Value L1AR"
         },
         {
-          "label": "label2",
+          "label": "Range Top 2",
           "value": "Value L2AR"
         }
       ]
@@ -40,14 +39,32 @@
         "https://repository-dev.library.georgetown.edu/loris/1#range1",
         "https://repository-dev.library.georgetown.edu/loris/1#range2"
       ],
-      "description":"Desc Two.",
       "metadata": [
         {
-          "label": "label1",
+          "label": "Range All 1",
           "value": "Value L1AR2"
         },
         {
-          "label": "label2",
+          "label": "Range All 2",
+          "value": "Value L2AR2"
+        }
+      ]
+    },
+    {
+      "label":"Range Allx",
+      "@id":"https://repository-dev.library.georgetown.edu/loris/1#rangeAllx",
+      "@type":"sc:Range",
+      "ranges": [
+        "https://repository-dev.library.georgetown.edu/loris/1#range1",
+        "https://repository-dev.library.georgetown.edu/loris/1#range2"
+      ],
+      "metadata": [
+        {
+          "label": "Range Allx 1",
+          "value": "Value L1AR2"
+        },
+        {
+          "label": "Range Allx 2",
           "value": "Value L2AR2"
         }
       ]
@@ -60,6 +77,16 @@
         "https://repository-dev.library.georgetown.edu/loris/1",
         "https://repository-dev.library.georgetown.edu/loris/2",
         "https://repository-dev.library.georgetown.edu/loris/3"
+      ],
+      "metadata": [
+        {
+          "label": "Range 1 1",
+          "value": "Value L1AR2"
+        },
+        {
+          "label": "Range 1 2",
+          "value": "Value L2AR2"
+        }
       ]
     },
     {
@@ -69,6 +96,16 @@
       "canvases": [
         "https://repository-dev.library.georgetown.edu/loris/4",
         "https://repository-dev.library.georgetown.edu/loris/5"
+      ],
+      "metadata": [
+        {
+          "label": "Range 2 1",
+          "value": "Value L1AR2"
+        },
+        {
+          "label": "Range 2 2",
+          "value": "Value L2AR2"
+        }
       ]
     }
     
@@ -78,11 +115,11 @@
       "viewingHint":"paged",
       "metadata": [
         {
-          "label": "label1",
+          "label": "Sequence 1",
           "value": "Value L1S"
         },
         {
-          "label": "label2",
+          "label": "Sequence 2",
           "value": "Value L2S"
         }
       ],
@@ -92,11 +129,11 @@
           "width":2811,
           "metadata": [
             {
-              "label": "label1",
+              "label": "Canvas 1 1",
               "value": "Value L1C1"
             },
             {
-              "label": "label2",
+              "label": "Canvas 1 2",
               "value": "Value L2C1"
             }
           ],
@@ -131,11 +168,11 @@
           "width":2805,
           "metadata": [
             {
-              "label": "label1",
+              "label": "Canvas 2 1",
               "value": "Value L1C2"
             },
             {
-              "label": "label2",
+              "label": "Canvas 2 2",
               "value": "Value L2C2"
             }
           ],
