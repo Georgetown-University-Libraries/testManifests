@@ -18,7 +18,8 @@
       "viewingHint":"top",
       "@type":"sc:Range",
       "ranges": [
-        "https://repository-dev.library.georgetown.edu/loris/1#rangeAll"
+        "https://repository-dev.library.georgetown.edu/loris/1#rangeAll",
+        "https://repository-dev.library.georgetown.edu/loris/1#rangeAllx"
       ],
       "metadata": [
         {
