@@ -12,11 +12,13 @@ Experimental Manifests for IIIF
 
 ## TODOs
 - Create manifest from EAD
-- Create manifest for FlexPaper pre-compiled resources 
+- TODO - overlay text extract into sample files 
 - Enable the generation of a manifest for item bitstreams (original or other bundle)
 
 ## Implemented
 - Find manifest.json attached to an item and render the IIIF logo
+- Create manifest for ~~FlexPaper pre-compiled resources~~
+  - Can use the same set of tools to generate resources
 
 ## Questions for the IIIF/UV Community
 - ~~How to use a PDF in UV. What can UV do with a PDF that the default browser view cannot?~~
@@ -37,3 +39,10 @@ Experimental Manifests for IIIF
 ## References to online resources
 - http://ronallo.com/iiif-workshop/presentation/
 - Example with nested ranges: http://demos.biblissima-condorcet.fr/iiif/metadata/florus-dispersus/manifest.json
+
+## DSpace Interaction Options
+- Generate Manifest with Metadata from Item via REST, link to external image files by manually editing the manifest
+- Store external image links via metadata and automate into manifest build
+- Generate Manifest from DSpace using a curation task or media filter
+- Load individual images into an IIIF Bundle and export to a manifest
+- Create a media filter (or curate task) to generate images from a PDF and build a manifest
