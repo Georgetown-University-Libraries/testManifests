@@ -60,6 +60,6 @@
           "@type":"sc:Canvas"
         }
       ],
-      "@id":"https://repository-dev.library.georgetown.edu/loris#S2",
+      "@id":"https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1seq2-seq2.json",
       "@type":"sc:Sequence"
     }
