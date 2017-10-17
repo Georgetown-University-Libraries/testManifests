@@ -14,7 +14,8 @@ Experimental Manifests for IIIF
 ## Questions for the IIIF/UV Community
 - How to use a PDF in UV. What can UV do with a PDF that the default browser view cannot?
 - Can metadata be embedded and viewed in UV at a spot other than a manifest: Canvas or Range
-- Can a collection be created with inline manifests, or must each one exist separately
+- Can a collection be created with inline manifests, or must each one exist separately?
+- If annotations are created (in a tool such as Mirador) how can they be persisted?  Can they then be referenced and viewed in UV?
 
 
 ## References to online resources

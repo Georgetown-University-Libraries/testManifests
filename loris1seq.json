@@ -1,6 +1,16 @@
 {  
   "description":"Script-generated, single directory manifest for demo purposes.",
   "label":"Manuscript",
+  "metadata": [
+    {
+      "label": "label1",
+      "value": "Value L1A"
+    },
+    {
+      "label": "label2",
+      "value": "Value L2A"
+    }
+  ],
   "structures": [
     {
       "label":"Range Top",
@@ -10,7 +20,17 @@
       "ranges": [
         "https://repository-dev.library.georgetown.edu/loris/1#rangeAll"
       ],
-      "description":"Desc One."
+      "description":"Desc One.",
+      "metadata": [
+        {
+          "label": "label1",
+          "value": "Value L1AR"
+        },
+        {
+          "label": "label2",
+          "value": "Value L2AR"
+        }
+      ]
     },
     {
       "label":"Range All",
@@ -20,7 +40,17 @@
         "https://repository-dev.library.georgetown.edu/loris/1#range1",
         "https://repository-dev.library.georgetown.edu/loris/1#range2"
       ],
-      "description":"Desc Two."
+      "description":"Desc Two.",
+      "metadata": [
+        {
+          "label": "label1",
+          "value": "Value L1AR2"
+        },
+        {
+          "label": "label2",
+          "value": "Value L2AR2"
+        }
+      ]
     },
     {
       "label":"Range 1",
@@ -46,10 +76,30 @@
   "sequences":[  
     {  
       "viewingHint":"paged",
+      "metadata": [
+        {
+          "label": "label1",
+          "value": "Value L1S"
+        },
+        {
+          "label": "label2",
+          "value": "Value L2S"
+        }
+      ],
       "canvases":[  
         {  
           "height":4147,
           "width":2811,
+          "metadata": [
+            {
+              "label": "label1",
+              "value": "Value L1C1"
+            },
+            {
+              "label": "label2",
+              "value": "Value L2C1"
+            }
+          ],
           "images":[  
             {  
               "on":"https://repository-dev.library.georgetown.edu/loris",
@@ -79,6 +129,16 @@
         {  
           "height":4158,
           "width":2805,
+          "metadata": [
+            {
+              "label": "label1",
+              "value": "Value L1C2"
+            },
+            {
+              "label": "label2",
+              "value": "Value L2C2"
+            }
+          ],
           "images":[  
             {  
               "on":"https://repository-dev.library.georgetown.edu/loris",
