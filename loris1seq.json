@@ -56,8 +56,7 @@
       "@id":"https://repository-dev.library.georgetown.edu/loris/1#rangeAllx",
       "@type":"sc:Range",
       "ranges": [
-        "https://repository-dev.library.georgetown.edu/loris/1#range1",
-        "https://repository-dev.library.georgetown.edu/loris/1#range2"
+        "https://repository-dev.library.georgetown.edu/loris/1#range1"
       ],
       "metadata": [
         {
