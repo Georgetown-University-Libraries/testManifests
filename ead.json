@@ -1,0 +1,3366 @@
+
+    {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@type":"sc:Manifest",
+        "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
+        
+        "label":"McLaughlin Brothers Papers",
+        "description":"Description This collection contains letters, post cards, invitations, and other correspondence from 1879-1886, of two brothers attending Georgetown, William L. McLaughlin, a Georgetown College and law school graduate, and Daniel Joseph McLaughlin, a Georgetown College graduate. Also included are law school notes and other school work of William L. McLaughlin and correspondence of William L. McLaughlin’s daughter, Mary McLaughlin.",
+        "metadata": [
+            
+        {
+            "label": "Identifier",
+            "value": "MSS.001"
+        }
+    
+        ],
+        "license": "Rights All rights reserved by Georgetown University Law Library unless otherwise noted.",
+        "attribution": "Preferred Citation note McLaughlin Brothers' Papers. Georgetown University Law Library Manuscripts Collection.",
+        "@id":"https://repository-dev.library.georgetown.edu/MSS.001>",
+    
+        "sequences": [
+        {
+            "@id": "https://repository-dev.library.georgetown.edu/ead", 
+            "@type": "sc:Sequence", 
+            "canvases": [
+                
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/1", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556083/1.1-10.6.1879.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/2", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556084/1.1-10.10.1879.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/3", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556085/1.1-10.25.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/4", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556086/1.1-11.1.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/5", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556087/1.1-11.7.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/6", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556088/1.1-11.15.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/7", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556089/1.1-11.23.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/8", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556090/1.1-12.7.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/9", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556091/1.1-Invitation%20to%20Merrick%20Debate%2c%205.20.unknown.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/10", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556092/1.2-1.25.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/11", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556093/1.2-2.3.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/12", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556094/1.2-2.20.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/13", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556095/1.2-3.1.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/14", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556096/1.2-3.5.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/15", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556097/1.2-10.20.1881.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/16", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556098/1.3-4.25.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/17", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556099/1.3-7.14.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/18", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556100/1.3-7.2.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/19", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556101/1.3-8.30.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/20", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556102/1.3-9.26.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/21", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556103/1.3-10.20.1882.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/22", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556104/1.3-11.4.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/23", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556105/1.3-11.11.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/24", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556106/1.3-12.11.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/25", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556107/1.3-12.14.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/26", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556108/1.4-1.4.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/27", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556109/1.4-1.8.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/28", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556110/1.4-1.23.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/29", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556111/1.4-3.26.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/30", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556112/1.4-7.27.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/31", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556113/1.4-7.31.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/32", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556114/1.4-8.17.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/33", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556115/1.4-8.30.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/34", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556116/1.4-9.14.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/35", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556117/1.4-10.10.1883.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/36", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556118/1.4-12.13.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/37", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556119/1.5-5.9.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/38", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556120/1.5-5.18.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/39", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556121/1.5-Medical%20%20Dept%20Comm.%20no%20date.1884.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/40", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556122/1.6-5.21.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/41", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556123/1.6-6.17.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/42", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556124/1.6-7.20.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/43", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556125/1.6-12.7.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/44", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556126/1.7-1.1.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/45", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556127/1.7-3.22.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/46", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556128/1.7-5.20.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/47", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556129/1.7-11.8.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/48", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556130/1.7-medical%20commencement%201886.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/49", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556131/1.8-7.2.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/50", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556132/1.8-7.10.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/51", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556133/1.8-7.18.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/52", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556134/1.8-7.31.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/53", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556135/1.8-9.22.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/54", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556136/1.8-9.24.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/55", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556137/1.8-9.28.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/56", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556138/1.8-10.7.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/57", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556139/1.8-10.9.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/58", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556140/1.8-10.14.1882.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/59", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556139/1.8-10.9.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/60", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556142/1.8-12.10.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/61", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556143/1.8-12.16.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/62", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556144/1.8-12.21.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/63", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556145/1.8-12.31.1882.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/64", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556146/1.9-1.14.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/65", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556148/1.9-1.20.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/66", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556149/1.9-1.27.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/67", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556147/1.9-1.31.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/68", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556150/1.9-2.12.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/69", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556151/1.9-2.28.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/70", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556152/1.9-3.10.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/71", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556153/1.9-6.28.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/72", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556154/1.9-8.8.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/73", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556155/1.9-8.15.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/74", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556156/1.9-8.21.1883.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/75", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556157/1.10-8.7.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/76", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556158/1.10-9.15.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/77", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556159/1.10-10.10.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/78", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556160/1.10-11.25.1884.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/79", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556161/1.11-3.2.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/80", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556162/1.11-4.13.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/81", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556163/1.11-5.31.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/82", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556164/1.11-6.8.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/83", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556165/1.11-7.8.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/84", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556166/1.11-7.25.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/85", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556167/1.11-8.15.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/86", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556168/1.11-10.1.1885.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/87", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556169/1.11-11.3.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/88", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556170/1.11-12.13.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/89", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556172/1.12-n.d.%20injury%20letter.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/90", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556175/1.12-11.14.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/91", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556176/1.12-12.1.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/92", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556171/1.12-12.6.nd.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/93", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556174/1.12-1.21.nd.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/94", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556173/1.12-2.8.nd.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/95", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556177/1.12-3.3.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/96", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556178/1.13-9.4.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/97", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556178/1.13-9.4.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/98", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556180/1.13-9.17.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/99", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556181/1.13-10.13.1885.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/100", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556181/1.13-10.13.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/101", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556182/1.13-11.15.1885.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/102", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556183/1.14-4.20.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/103", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556184/1.14-5.4.1886.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/104", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556185/1.16-12.16.nd.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/105", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556187/1.16-BrucesHeart.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/106", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556189/1.16-11.5.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/107", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556190/1.16-11.10.1880.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/108", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556188/1.16-11.4.1879.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/109", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556186/1.16-11.11.1880.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/110", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556196/1.16-4.1.1881.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/111", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556191/1.17-1.16.1912.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/112", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556192/1.17-3.6.1912.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/113", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556193/1.17-11.22.1912.pdf?sequence=1", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/114", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556194/1.17-1.17.1913.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    ,
+    {
+        "@id": "https://repository-dev.library.georgetown.edu/loris/115", 
+        "@type": "sc:Canvas", 
+        "height": 1536,
+        "width": 2048,        
+        "label": "10822/556195/1.17-12.17.1913.pdf?sequence=1&isAllowed=y", 
+        "images": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json", 
+            "@id": "https://repository-dev.library.georgetown.edu/loris", 
+            "@type": "oa:Annotation", 
+            "motivation": "sc:painting", 
+            "on": "https://repository-dev.library.georgetown.edu/ead", 
+            "resource": {
+                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 1536,
+                "width": 2048,                        
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        }
+        ]
+    }
+    
+            ]
+        }
+        ]
+    }
+    

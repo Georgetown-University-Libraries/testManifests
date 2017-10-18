@@ -4,17 +4,12 @@
     xmlns:ns2="http://www.w3.org/1999/xlink"
     xmlns:ead="urn:isbn:1-931666-22-9">
     <xsl:output method="text" encoding="UTF-8" media-type="text/plain"/>
-    <xsl:template match="/">
+    <xsl:template match="/ead:ead">
     {
         "@context": "http://iiif.io/api/presentation/2/context.json",
-        "description":"TBD1",
-        "label":"TBD2",
-        "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
-        "license": "TBD3",
-        "attribution": "TBD4",
-        "@id":"https://repository-dev.library.georgetown.edu/ead1",
         "@type":"sc:Manifest",
-        "metadata": [],
+        "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
+        <xsl:apply-templates select="ead:archdesc"/>
         "sequences": [
         {
             "@id": "https://repository-dev.library.georgetown.edu/ead", 
@@ -27,6 +22,28 @@
     }
     </xsl:template>
     
+    <xsl:template match="ead:archdesc">
+        "label":"<xsl:value-of select="ead:did/ead:unittitle/text()"/>",
+        "description":"<xsl:value-of select="normalize-space(ead:scopecontent)"/>",
+        "metadata": [
+            <xsl:apply-templates select="ead:did/ead:unitid" mode="metadata">
+                <xsl:with-param name="label">Identifier</xsl:with-param>
+            </xsl:apply-templates>
+        ],
+        "license": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
+        "attribution": "<xsl:value-of select="normalize-space(ead:prefercite)"/>",
+        "@id":"https://repository-dev.library.georgetown.edu/<xsl:value-of select="ead:did/ead:unitid/text()"/>>",
+    </xsl:template>
+     
+    <xsl:template match="text()|@*|*" mode="metadata">
+        <xsl:param name="label"/>
+        <xsl:variable name="val" select="."/>
+        {
+            "label": "<xsl:value-of select="$label"/>",
+            "value": "<xsl:value-of select="normalize-space($val)"/>"
+        }
+    </xsl:template> 
+     
     <xsl:template match="ead:dao">
     {
         "@id": "https://repository-dev.library.georgetown.edu/loris/<xsl:number value="position()" format="1" />", 
