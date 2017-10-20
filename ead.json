@@ -97,7 +97,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref18",
         "@type":"sc:Range",
         
@@ -108,7 +108,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref28",
         "@type":"sc:Range",
         
@@ -119,7 +119,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref35",
         "@type":"sc:Range",
         
@@ -130,7 +130,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref46",
         "@type":"sc:Range",
         
@@ -141,7 +141,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref58",
         "@type":"sc:Range",
         
@@ -152,7 +152,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref62",
         "@type":"sc:Range",
         
@@ -163,7 +163,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref67",
         "@type":"sc:Range",
         
@@ -174,7 +174,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref149",
         "@type":"sc:Range",
         
@@ -185,7 +185,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref89",
         "@type":"sc:Range",
         
@@ -196,7 +196,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref101",
         "@type":"sc:Range",
         
@@ -207,7 +207,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref106",
         "@type":"sc:Range",
         
@@ -218,7 +218,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref150",
         "@type":"sc:Range",
         
@@ -229,7 +229,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref125",
         "@type":"sc:Range",
         
@@ -240,7 +240,7 @@
     }       
     
     ,{
-        "label":"",
+        "label":"Default",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref131",
         "@type":"sc:Range",
         

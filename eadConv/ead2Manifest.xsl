@@ -50,7 +50,11 @@
     <xsl:template match="*|@*|text()" mode="cleantext">
         <xsl:variable name="cur" select="."/>
         <xsl:variable name="quote">"</xsl:variable>
-        <xsl:value-of select="translate(normalize-space($cur),$quote,'')"/>
+        <xsl:variable name="val" select="translate(normalize-space($cur),$quote,'')"/>
+        <xsl:choose>
+            <xsl:when test="$val"><xsl:value-of select="$val"/></xsl:when>
+            <xsl:otherwise>Default</xsl:otherwise>
+        </xsl:choose>       
     </xsl:template>
         
     <xsl:template match="ead:c01|ead:c02|ead:c03" mode="range">
