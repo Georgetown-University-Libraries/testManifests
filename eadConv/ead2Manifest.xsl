@@ -46,10 +46,16 @@
         <xsl:value-of select="@id"/>
         <xsl:text>"</xsl:text>
     </xsl:template>
+    
+    <xsl:template match="*|@*|text()" mode="cleantext">
+        <xsl:variable name="cur" select="."/>
+        <xsl:variable name="quote">"</xsl:variable>
+        <xsl:value-of select="translate(normalize-space($cur),$quote,'')"/>
+    </xsl:template>
         
     <xsl:template match="ead:c01|ead:c02|ead:c03" mode="range">
     ,{
-        "label":"<xsl:value-of select="normalize-space(ead:did/ead:unittitle)"/>",
+        "label":"<xsl:apply-templates select="ead:did/ead:unittitle" mode="cleantext"/>",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#<xsl:value-of select="@id"/>",
         "@type":"sc:Range",
         "ranges": [
@@ -67,17 +73,17 @@
     </xsl:template>
     
     <xsl:template match="ead:archdesc">
-        "label":"<xsl:value-of select="ead:did/ead:unittitle/text()"/>",
-        "description":"<xsl:value-of select="normalize-space(ead:scopecontent)"/>",
+        "label":"<xsl:apply-templates select="ead:did/ead:unittitle/text()" mode="cleantext"/>",
+        "description":"<xsl:apply-templates select="ead:scopecontent" mode="cleantext"/>",
         "metadata": [
             <xsl:apply-templates select="ead:did/ead:unitid" mode="metadata">
                 <xsl:with-param name="label">Identifier</xsl:with-param>
             </xsl:apply-templates>
         ],
         <!-- License must contain a URL
-            "license": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
+            "license": "...",
         -->
-        "attribution": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
+        "attribution": "<xsl:apply-templates select="ead:userestrict" mode="cleantext"/>",
         "@id":"https://repository-dev.library.georgetown.edu/<xsl:value-of select="ead:did/ead:unitid/text()"/>>",
     </xsl:template>
      
@@ -86,7 +92,7 @@
         <xsl:variable name="val" select="."/>
         {
             "label": "<xsl:value-of select="$label"/>",
-            "value": "<xsl:value-of select="normalize-space($val)"/>"
+            "value": "<xsl:apply-templates select="$val" mode="cleantext"/>"
         }
     </xsl:template> 
      
@@ -95,7 +101,7 @@
         "@id": "https://repository-dev.library.georgetown.edu/loris/#C<xsl:value-of select="generate-id(.)"/>", 
         "@type": "sc:Canvas", 
         "height": 1536,
-        "width": 2048,        
+        "width": 2048, 
         "label": "<xsl:value-of select="substring-after(@ns2:href,'handle/')"/>", 
         "images": [
         {
