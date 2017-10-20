@@ -104,8 +104,8 @@
         "metadata": [
             <xsl:apply-templates select="ead:did" mode="container"/>
             {
-                "label": "Type",
-                 "value": "<xsl:value-of select="@level"/>"
+                 "label": "<xsl:value-of select="@level"/>",
+                 "value": "<xsl:apply-templates select="ead:did/ead:unittitle" mode="cleantext"/>"
             }
         ]
         </xsl:if>
@@ -171,7 +171,14 @@
         "@type": "sc:Canvas", 
         "height": 1536,
         "width": 2048, 
-        "label": "<xsl:value-of select="substring-after(@ns2:href,'handle/')"/>", 
+        <xsl:choose>
+            <xsl:when test="starts-with(@ns2:href,'https://repository.library.georgetown.edu/bitstream')">
+                "label": "<xsl:value-of select="substring-after(@ns2:href,'handle/10822/')"/>",
+            </xsl:when>
+            <xsl:otherwise>
+                "label": "<xsl:value-of select="concat('Page ',substring-after(@ns2:href,'_Page_'))"/>",
+            </xsl:otherwise>
+        </xsl:choose>            
         "images": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json", 
