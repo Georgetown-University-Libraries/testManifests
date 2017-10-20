@@ -96,10 +96,49 @@
                     <xsl:value-of select="generate-id(.)"/>
                     <xsl:text>"</xsl:text>
                 </xsl:for-each>
-                ]                
+                ]               
             </xsl:otherwise>
         </xsl:choose>
+        <xsl:if test="not(ead:c01|ead:c02|ead:c03)">
+        ,
+        "metadata": [
+            <xsl:apply-templates select="ead:did" mode="container"/>
+            {
+                "label": "Type",
+                 "value": "<xsl:value-of select="@level"/>"
+            }
+        ]
+        </xsl:if>
     }       
+    </xsl:template>
+    
+    <xsl:template match="ead:did" mode="container">
+        <xsl:apply-templates select="ead:container" mode="container"/>
+        <xsl:apply-templates select="ead:unitdate" mode="container"/>
+    </xsl:template>
+
+    <xsl:template match="ead:container" mode="container-text">
+        <xsl:value-of select="text()"/>
+        <xsl:if test="@label">
+            <xsl:value-of select="concat(', ',@label)"/>
+        </xsl:if>
+        <xsl:if test="@id">
+            <xsl:value-of select="concat(' (',@id,')')"/>
+        </xsl:if>
+    </xsl:template>
+
+    <xsl:template match="ead:container" mode="container">
+        {
+            "label": "Container <xsl:value-of select="@type"/>",
+            "value": "<xsl:apply-templates select="." mode="container-text"/>"
+        },
+    </xsl:template>
+
+    <xsl:template match="ead:unitdate" mode="container">
+        {
+            "label": "Date",
+            "value": "<xsl:value-of select="text()"/>"
+        },
     </xsl:template>
     
     <xsl:template match="ead:archdesc">
