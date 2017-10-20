@@ -14,12 +14,56 @@
         {
             "@id": "https://repository-dev.library.georgetown.edu/ead", 
             "@type": "sc:Sequence", 
+            "structures": [
+                <xsl:apply-templates select="//ead:archdesc" mode="range"/>
+                <xsl:apply-templates select="//ead:archdesc/ead:dsc/ead:c01" mode="range"/>
+                <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c02" mode="range"/>
+                <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c03" mode="range"/>
+            ],
             "canvases": [
                 <xsl:apply-templates select="//ead:dao"/>
             ]
         }
         ]
     }
+    </xsl:template>
+    
+    <xsl:template match="ead:archdesc" mode="range">
+    {
+        "label":"Range Top",
+        "@id":"https://repository-dev.library.georgetown.edu/loris/#rangeTop",
+        "viewingHint":"top",
+        "@type":"sc:Range",
+        "ranges": [
+            <xsl:apply-templates select="ead:dsc/ead:c01" mode="rangeref"/>
+        ]
+    }       
+    </xsl:template>
+
+    <xsl:template match="ead:c01|ead:c02|ead:c03" mode="rangeref">
+        <xsl:if test="position()>1">,</xsl:if>
+        <xsl:text>"https://repository-dev.library.georgetown.edu/loris/#</xsl:text>
+        <xsl:value-of select="@id"/>
+        <xsl:text>"</xsl:text>
+    </xsl:template>
+        
+    <xsl:template match="ead:c01|ead:c02|ead:c03" mode="range">
+    ,{
+        "label":"<xsl:value-of select="normalize-space(ead:did/ead:unittitle)"/>",
+        "@id":"https://repository-dev.library.georgetown.edu/loris/#<xsl:value-of select="@id"/>",
+        "@type":"sc:Range",
+        "ranges": [
+            <xsl:apply-templates select="ead:c02|ead:c03" mode="rangeref"/>
+        ],
+        "canvases": [
+            <xsl:for-each select="ead:dao">
+                <xsl:if test="position()>1">,</xsl:if>
+                <xsl:text>"https://repository-dev.library.georgetown.edu/loris/#C</xsl:text>
+                <xsl:value-of select="generate-id(.)"/>
+                <xsl:text>"</xsl:text>
+            </xsl:for-each>
+        ]
+    }       
     </xsl:template>
     
     <xsl:template match="ead:archdesc">
@@ -30,8 +74,10 @@
                 <xsl:with-param name="label">Identifier</xsl:with-param>
             </xsl:apply-templates>
         ],
-        "license": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
-        "attribution": "<xsl:value-of select="normalize-space(ead:prefercite)"/>",
+        <!-- License must contain a URL
+            "license": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
+        -->
+        "attribution": "<xsl:value-of select="normalize-space(ead:userestrict)"/>",
         "@id":"https://repository-dev.library.georgetown.edu/<xsl:value-of select="ead:did/ead:unitid/text()"/>>",
     </xsl:template>
      
@@ -46,7 +92,7 @@
      
     <xsl:template match="ead:dao">
     {
-        "@id": "https://repository-dev.library.georgetown.edu/loris/<xsl:number value="position()" format="1" />", 
+        "@id": "https://repository-dev.library.georgetown.edu/loris/#C<xsl:value-of select="generate-id(.)"/>", 
         "@type": "sc:Canvas", 
         "height": 1536,
         "width": 2048,        
