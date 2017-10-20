@@ -10,16 +10,16 @@
         "@type":"sc:Manifest",
         "logo": "https://repository.library.georgetown.edu/themes/Mirage2/images/digitalgeorgetown-logo-small-inverted.png",
         <xsl:apply-templates select="ead:archdesc"/>
+        "structures": [
+        <xsl:apply-templates select="//ead:archdesc" mode="range"/>
+        <xsl:apply-templates select="//ead:archdesc/ead:dsc/ead:c01" mode="range"/>
+        <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c02" mode="range"/>
+        <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c03" mode="range"/>
+        ],
         "sequences": [
         {
             "@id": "https://repository-dev.library.georgetown.edu/ead", 
             "@type": "sc:Sequence", 
-            "structures": [
-                <xsl:apply-templates select="//ead:archdesc" mode="range"/>
-                <xsl:apply-templates select="//ead:archdesc/ead:dsc/ead:c01" mode="range"/>
-                <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c02" mode="range"/>
-                <xsl:apply-templates select="//ead:archdesc/ead:dsc//ead:c03" mode="range"/>
-            ],
             "canvases": [
                 <xsl:apply-templates select="//ead:dao"/>
             ]
@@ -58,17 +58,23 @@
         "label":"<xsl:apply-templates select="ead:did/ead:unittitle" mode="cleantext"/>",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#<xsl:value-of select="@id"/>",
         "@type":"sc:Range",
-        "ranges": [
-            <xsl:apply-templates select="ead:c02|ead:c03" mode="rangeref"/>
-        ],
-        "canvases": [
-            <xsl:for-each select="ead:dao">
-                <xsl:if test="position()>1">,</xsl:if>
-                <xsl:text>"https://repository-dev.library.georgetown.edu/loris/#C</xsl:text>
-                <xsl:value-of select="generate-id(.)"/>
-                <xsl:text>"</xsl:text>
-            </xsl:for-each>
-        ]
+        <xsl:choose>
+            <xsl:when test="ead:c02|ead:c03">
+                "ranges": [
+                <xsl:apply-templates select="ead:c02|ead:c03" mode="rangeref"/>
+                ]                
+            </xsl:when>
+            <xsl:otherwise>
+                "canvases": [
+                <xsl:for-each select="ead:dao">
+                    <xsl:if test="position()>1">,</xsl:if>
+                    <xsl:text>"https://repository-dev.library.georgetown.edu/loris/#C</xsl:text>
+                    <xsl:value-of select="generate-id(.)"/>
+                    <xsl:text>"</xsl:text>
+                </xsl:for-each>
+                ]                
+            </xsl:otherwise>
+        </xsl:choose>
     }       
     </xsl:template>
     

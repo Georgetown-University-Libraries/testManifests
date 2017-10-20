@@ -18,12 +18,8 @@
         "attribution": "Rights All rights reserved by Georgetown University Law Library unless otherwise noted.",
         "@id":"https://repository-dev.library.georgetown.edu/MSS.001>",
     
-        "sequences": [
-        {
-            "@id": "https://repository-dev.library.georgetown.edu/ead", 
-            "@type": "sc:Sequence", 
-            "structures": [
-                
+        "structures": [
+        
     {
         "label":"Range Top",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#rangeTop",
@@ -38,1611 +34,1481 @@
         "label":"William L. McLaughlin correspondence,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref17",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref18","https://repository-dev.library.georgetown.edu/loris/#ref28","https://repository-dev.library.georgetown.edu/loris/#ref35","https://repository-dev.library.georgetown.edu/loris/#ref46","https://repository-dev.library.georgetown.edu/loris/#ref58","https://repository-dev.library.georgetown.edu/loris/#ref62","https://repository-dev.library.georgetown.edu/loris/#ref67"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref18","https://repository-dev.library.georgetown.edu/loris/#ref28","https://repository-dev.library.georgetown.edu/loris/#ref35","https://repository-dev.library.georgetown.edu/loris/#ref46","https://repository-dev.library.georgetown.edu/loris/#ref58","https://repository-dev.library.georgetown.edu/loris/#ref62","https://repository-dev.library.georgetown.edu/loris/#ref67"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"A. Clark Wright to William L. McLaughlin correspondence,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref73",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref149","https://repository-dev.library.georgetown.edu/loris/#ref89","https://repository-dev.library.georgetown.edu/loris/#ref101","https://repository-dev.library.georgetown.edu/loris/#ref106"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref149","https://repository-dev.library.georgetown.edu/loris/#ref89","https://repository-dev.library.georgetown.edu/loris/#ref101","https://repository-dev.library.georgetown.edu/loris/#ref106"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"Daniel McLaughlin correspondence,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref117",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref150","https://repository-dev.library.georgetown.edu/loris/#ref125","https://repository-dev.library.georgetown.edu/loris/#ref131"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref150","https://repository-dev.library.georgetown.edu/loris/#ref125","https://repository-dev.library.georgetown.edu/loris/#ref131"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"Notebooks (2), from William's law study,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref135",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                
+                ]                
             
-        ],
-        "canvases": [
-            
-        ]
     }       
     
     ,{
         "label":"William L. McLaughlin school papers",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref136",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref137","https://repository-dev.library.georgetown.edu/loris/#ref139","https://repository-dev.library.georgetown.edu/loris/#ref140","https://repository-dev.library.georgetown.edu/loris/#ref141","https://repository-dev.library.georgetown.edu/loris/#ref142","https://repository-dev.library.georgetown.edu/loris/#ref151","https://repository-dev.library.georgetown.edu/loris/#ref152"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref137","https://repository-dev.library.georgetown.edu/loris/#ref139","https://repository-dev.library.georgetown.edu/loris/#ref140","https://repository-dev.library.georgetown.edu/loris/#ref141","https://repository-dev.library.georgetown.edu/loris/#ref142","https://repository-dev.library.georgetown.edu/loris/#ref151","https://repository-dev.library.georgetown.edu/loris/#ref152"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"Mary McLaughlin incoming correspondence",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref143",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref144","https://repository-dev.library.georgetown.edu/loris/#ref145","https://repository-dev.library.georgetown.edu/loris/#ref146","https://repository-dev.library.georgetown.edu/loris/#ref147","https://repository-dev.library.georgetown.edu/loris/#ref148"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref144","https://repository-dev.library.georgetown.edu/loris/#ref145","https://repository-dev.library.georgetown.edu/loris/#ref146","https://repository-dev.library.georgetown.edu/loris/#ref147","https://repository-dev.library.georgetown.edu/loris/#ref148"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref18",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref19","https://repository-dev.library.georgetown.edu/loris/#ref20","https://repository-dev.library.georgetown.edu/loris/#ref21","https://repository-dev.library.georgetown.edu/loris/#ref22","https://repository-dev.library.georgetown.edu/loris/#ref23","https://repository-dev.library.georgetown.edu/loris/#ref24","https://repository-dev.library.georgetown.edu/loris/#ref25","https://repository-dev.library.georgetown.edu/loris/#ref26","https://repository-dev.library.georgetown.edu/loris/#ref27"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref19","https://repository-dev.library.georgetown.edu/loris/#ref20","https://repository-dev.library.georgetown.edu/loris/#ref21","https://repository-dev.library.georgetown.edu/loris/#ref22","https://repository-dev.library.georgetown.edu/loris/#ref23","https://repository-dev.library.georgetown.edu/loris/#ref24","https://repository-dev.library.georgetown.edu/loris/#ref25","https://repository-dev.library.georgetown.edu/loris/#ref26","https://repository-dev.library.georgetown.edu/loris/#ref27"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref28",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref29","https://repository-dev.library.georgetown.edu/loris/#ref30","https://repository-dev.library.georgetown.edu/loris/#ref31","https://repository-dev.library.georgetown.edu/loris/#ref32","https://repository-dev.library.georgetown.edu/loris/#ref33","https://repository-dev.library.georgetown.edu/loris/#ref34"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref29","https://repository-dev.library.georgetown.edu/loris/#ref30","https://repository-dev.library.georgetown.edu/loris/#ref31","https://repository-dev.library.georgetown.edu/loris/#ref32","https://repository-dev.library.georgetown.edu/loris/#ref33","https://repository-dev.library.georgetown.edu/loris/#ref34"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref35",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref36","https://repository-dev.library.georgetown.edu/loris/#ref37","https://repository-dev.library.georgetown.edu/loris/#ref38","https://repository-dev.library.georgetown.edu/loris/#ref39","https://repository-dev.library.georgetown.edu/loris/#ref40","https://repository-dev.library.georgetown.edu/loris/#ref41","https://repository-dev.library.georgetown.edu/loris/#ref42","https://repository-dev.library.georgetown.edu/loris/#ref43","https://repository-dev.library.georgetown.edu/loris/#ref44","https://repository-dev.library.georgetown.edu/loris/#ref45"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref36","https://repository-dev.library.georgetown.edu/loris/#ref37","https://repository-dev.library.georgetown.edu/loris/#ref38","https://repository-dev.library.georgetown.edu/loris/#ref39","https://repository-dev.library.georgetown.edu/loris/#ref40","https://repository-dev.library.georgetown.edu/loris/#ref41","https://repository-dev.library.georgetown.edu/loris/#ref42","https://repository-dev.library.georgetown.edu/loris/#ref43","https://repository-dev.library.georgetown.edu/loris/#ref44","https://repository-dev.library.georgetown.edu/loris/#ref45"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref46",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref47","https://repository-dev.library.georgetown.edu/loris/#ref48","https://repository-dev.library.georgetown.edu/loris/#ref49","https://repository-dev.library.georgetown.edu/loris/#ref50","https://repository-dev.library.georgetown.edu/loris/#ref51","https://repository-dev.library.georgetown.edu/loris/#ref52","https://repository-dev.library.georgetown.edu/loris/#ref53","https://repository-dev.library.georgetown.edu/loris/#ref54","https://repository-dev.library.georgetown.edu/loris/#ref55","https://repository-dev.library.georgetown.edu/loris/#ref56","https://repository-dev.library.georgetown.edu/loris/#ref57"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref47","https://repository-dev.library.georgetown.edu/loris/#ref48","https://repository-dev.library.georgetown.edu/loris/#ref49","https://repository-dev.library.georgetown.edu/loris/#ref50","https://repository-dev.library.georgetown.edu/loris/#ref51","https://repository-dev.library.georgetown.edu/loris/#ref52","https://repository-dev.library.georgetown.edu/loris/#ref53","https://repository-dev.library.georgetown.edu/loris/#ref54","https://repository-dev.library.georgetown.edu/loris/#ref55","https://repository-dev.library.georgetown.edu/loris/#ref56","https://repository-dev.library.georgetown.edu/loris/#ref57"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref58",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref59","https://repository-dev.library.georgetown.edu/loris/#ref60","https://repository-dev.library.georgetown.edu/loris/#ref61"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref59","https://repository-dev.library.georgetown.edu/loris/#ref60","https://repository-dev.library.georgetown.edu/loris/#ref61"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref62",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref63","https://repository-dev.library.georgetown.edu/loris/#ref64","https://repository-dev.library.georgetown.edu/loris/#ref65","https://repository-dev.library.georgetown.edu/loris/#ref66"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref63","https://repository-dev.library.georgetown.edu/loris/#ref64","https://repository-dev.library.georgetown.edu/loris/#ref65","https://repository-dev.library.georgetown.edu/loris/#ref66"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref67",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref68","https://repository-dev.library.georgetown.edu/loris/#ref69","https://repository-dev.library.georgetown.edu/loris/#ref70","https://repository-dev.library.georgetown.edu/loris/#ref71","https://repository-dev.library.georgetown.edu/loris/#ref72"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref68","https://repository-dev.library.georgetown.edu/loris/#ref69","https://repository-dev.library.georgetown.edu/loris/#ref70","https://repository-dev.library.georgetown.edu/loris/#ref71","https://repository-dev.library.georgetown.edu/loris/#ref72"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref149",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref74","https://repository-dev.library.georgetown.edu/loris/#ref75","https://repository-dev.library.georgetown.edu/loris/#ref76","https://repository-dev.library.georgetown.edu/loris/#ref77","https://repository-dev.library.georgetown.edu/loris/#ref78","https://repository-dev.library.georgetown.edu/loris/#ref79","https://repository-dev.library.georgetown.edu/loris/#ref80","https://repository-dev.library.georgetown.edu/loris/#ref81","https://repository-dev.library.georgetown.edu/loris/#ref82","https://repository-dev.library.georgetown.edu/loris/#ref83","https://repository-dev.library.georgetown.edu/loris/#ref84","https://repository-dev.library.georgetown.edu/loris/#ref85","https://repository-dev.library.georgetown.edu/loris/#ref86","https://repository-dev.library.georgetown.edu/loris/#ref87","https://repository-dev.library.georgetown.edu/loris/#ref88"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref74","https://repository-dev.library.georgetown.edu/loris/#ref75","https://repository-dev.library.georgetown.edu/loris/#ref76","https://repository-dev.library.georgetown.edu/loris/#ref77","https://repository-dev.library.georgetown.edu/loris/#ref78","https://repository-dev.library.georgetown.edu/loris/#ref79","https://repository-dev.library.georgetown.edu/loris/#ref80","https://repository-dev.library.georgetown.edu/loris/#ref81","https://repository-dev.library.georgetown.edu/loris/#ref82","https://repository-dev.library.georgetown.edu/loris/#ref83","https://repository-dev.library.georgetown.edu/loris/#ref84","https://repository-dev.library.georgetown.edu/loris/#ref85","https://repository-dev.library.georgetown.edu/loris/#ref86","https://repository-dev.library.georgetown.edu/loris/#ref87","https://repository-dev.library.georgetown.edu/loris/#ref88"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref89",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref90","https://repository-dev.library.georgetown.edu/loris/#ref91","https://repository-dev.library.georgetown.edu/loris/#ref92","https://repository-dev.library.georgetown.edu/loris/#ref93","https://repository-dev.library.georgetown.edu/loris/#ref94","https://repository-dev.library.georgetown.edu/loris/#ref95","https://repository-dev.library.georgetown.edu/loris/#ref96","https://repository-dev.library.georgetown.edu/loris/#ref97","https://repository-dev.library.georgetown.edu/loris/#ref98","https://repository-dev.library.georgetown.edu/loris/#ref99","https://repository-dev.library.georgetown.edu/loris/#ref100"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref90","https://repository-dev.library.georgetown.edu/loris/#ref91","https://repository-dev.library.georgetown.edu/loris/#ref92","https://repository-dev.library.georgetown.edu/loris/#ref93","https://repository-dev.library.georgetown.edu/loris/#ref94","https://repository-dev.library.georgetown.edu/loris/#ref95","https://repository-dev.library.georgetown.edu/loris/#ref96","https://repository-dev.library.georgetown.edu/loris/#ref97","https://repository-dev.library.georgetown.edu/loris/#ref98","https://repository-dev.library.georgetown.edu/loris/#ref99","https://repository-dev.library.georgetown.edu/loris/#ref100"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref101",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref102","https://repository-dev.library.georgetown.edu/loris/#ref103","https://repository-dev.library.georgetown.edu/loris/#ref104","https://repository-dev.library.georgetown.edu/loris/#ref105"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref102","https://repository-dev.library.georgetown.edu/loris/#ref103","https://repository-dev.library.georgetown.edu/loris/#ref104","https://repository-dev.library.georgetown.edu/loris/#ref105"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref106",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref107","https://repository-dev.library.georgetown.edu/loris/#ref108","https://repository-dev.library.georgetown.edu/loris/#ref109","https://repository-dev.library.georgetown.edu/loris/#ref110","https://repository-dev.library.georgetown.edu/loris/#ref111","https://repository-dev.library.georgetown.edu/loris/#ref112","https://repository-dev.library.georgetown.edu/loris/#ref113","https://repository-dev.library.georgetown.edu/loris/#ref114","https://repository-dev.library.georgetown.edu/loris/#ref115","https://repository-dev.library.georgetown.edu/loris/#ref116"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref107","https://repository-dev.library.georgetown.edu/loris/#ref108","https://repository-dev.library.georgetown.edu/loris/#ref109","https://repository-dev.library.georgetown.edu/loris/#ref110","https://repository-dev.library.georgetown.edu/loris/#ref111","https://repository-dev.library.georgetown.edu/loris/#ref112","https://repository-dev.library.georgetown.edu/loris/#ref113","https://repository-dev.library.georgetown.edu/loris/#ref114","https://repository-dev.library.georgetown.edu/loris/#ref115","https://repository-dev.library.georgetown.edu/loris/#ref116"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref150",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref120","https://repository-dev.library.georgetown.edu/loris/#ref123","https://repository-dev.library.georgetown.edu/loris/#ref124","https://repository-dev.library.georgetown.edu/loris/#ref118","https://repository-dev.library.georgetown.edu/loris/#ref122","https://repository-dev.library.georgetown.edu/loris/#ref121","https://repository-dev.library.georgetown.edu/loris/#ref119"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref120","https://repository-dev.library.georgetown.edu/loris/#ref123","https://repository-dev.library.georgetown.edu/loris/#ref124","https://repository-dev.library.georgetown.edu/loris/#ref118","https://repository-dev.library.georgetown.edu/loris/#ref122","https://repository-dev.library.georgetown.edu/loris/#ref121","https://repository-dev.library.georgetown.edu/loris/#ref119"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref125",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref127","https://repository-dev.library.georgetown.edu/loris/#ref128","https://repository-dev.library.georgetown.edu/loris/#ref129","https://repository-dev.library.georgetown.edu/loris/#ref130","https://repository-dev.library.georgetown.edu/loris/#ref126"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref127","https://repository-dev.library.georgetown.edu/loris/#ref128","https://repository-dev.library.georgetown.edu/loris/#ref129","https://repository-dev.library.georgetown.edu/loris/#ref130","https://repository-dev.library.georgetown.edu/loris/#ref126"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref131",
         "@type":"sc:Range",
-        "ranges": [
-            "https://repository-dev.library.georgetown.edu/loris/#ref132","https://repository-dev.library.georgetown.edu/loris/#ref133"
-        ],
-        "canvases": [
+        
+                "ranges": [
+                "https://repository-dev.library.georgetown.edu/loris/#ref132","https://repository-dev.library.georgetown.edu/loris/#ref133"
+                ]                
             
-        ]
     }       
     
     ,{
         "label":"Essay, Some of the Pinches of Poverty,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref137",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4020"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4020"
-        ]
     }       
     
     ,{
         "label":"Essay, Bruce's Heart,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref139",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4047"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4047"
-        ]
     }       
     
     ,{
         "label":"Poem, Lost and Found,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref140",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4074"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4074"
-        ]
     }       
     
     ,{
         "label":"Latin verse,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref141",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4101"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4101"
-        ]
     }       
     
     ,{
         "label":"Poem, Latin with translation,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref142",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4128"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4128"
-        ]
     }       
     
     ,{
         "label":"Latin verse,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref151",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4155"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4155"
-        ]
     }       
     
     ,{
         "label":"Essay Portia,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref152",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4182"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4182"
-        ]
     }       
     
     ,{
         "label":"Letter to Mary McLaughlin (Deadwood) from Charles Macksey (Rome, Italy),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref144",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4230"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4230"
-        ]
     }       
     
     ,{
         "label":"Letter to Mary McLaughlin (Deadwood) from Charles Macksey (Rome, Italy),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref145",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4263"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4263"
-        ]
     }       
     
     ,{
         "label":"Letter to Mary McLaughlin (Deadwood) from Charles Macksey (Rome, Italy),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref146",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4296"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4296"
-        ]
     }       
     
     ,{
         "label":"Letter to Mary McLaughlin (orig: Deadwood; changed to: Pasadena, CA) from Charles Macksey,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref147",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4329"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4329"
-        ]
     }       
     
     ,{
         "label":"Letter to Mary McLaughlin (Pasadena, CA) from Charles Macksey (Rome, Italy),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref148",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e4362"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e4362"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref19",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e360"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e360"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref20",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e393"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e393"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref21",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e426"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e426"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref22",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e459"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e459"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref23",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e492"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e492"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref24",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e525"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e525"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref25",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e558"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e558"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref26",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e591"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e591"
-        ]
     }       
     
     ,{
         "label":"Invitation to the Merrick Debate to William (Deadwood),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref27",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e624"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e624"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref29",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e674"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e674"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU)",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref30",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e707"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e707"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref31",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e740"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e740"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref32",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e773"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e773"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (?) from William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref33",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e806"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e806"
-        ]
     }       
     
     ,{
         "label":"Letter to William (GU) from WRS (WR Sevan) (Cheyenne, WY),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref34",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e839"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e839"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Georgetown) from (unknown) (Charleston, SC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref36",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e889"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e889"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Mac) from Hill [sp?] Curtis (Ft. Chest., Wash.),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref37",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e922"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e922"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.F. McGahan (Bethlehem, NH),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref38",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e955"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e955"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Hugh McCaffrey (Omaha, NE),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref39",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e988"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e988"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from W.R. Cowardin, SJ (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref40",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1021"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1021"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from J. H. Richards, SJ (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref41",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1054"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1054"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Kate H. Friend (St. Louis, MO),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref42",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1087"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1087"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from ? (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref43",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1120"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1120"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from F.A. Brogan (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref44",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1153"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1153"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from J.H. Richards, SJ (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref45",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1186"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1186"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from ? (?Aiken, SC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref47",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1236"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1236"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from J. H. Richards, SJ (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref48",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1269"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1269"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from F.A. Brogan (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref49",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1302"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1302"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from F.A. Brogan (GU) & pamphlet: Theses ex Psychologia,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref50",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1335"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1335"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from J.H. Richards, SJ (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref51",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1368"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1368"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from J.H. Richards, SJ,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref52",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1401"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1401"
-        ]
     }       
     
     ,{
         "label":"Letter to William (GU) from F.A. Brogan (Hartford, KS),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref53",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1434"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1434"
-        ]
     }       
     
     ,{
         "label":"Postal card to William (GU) from JCI (Deadwood),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref54",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1467"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1467"
-        ]
     }       
     
     ,{
         "label":"Letter to William (GU) from F.A. Brogan (Hartfod, KS),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref55",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1500"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1500"
-        ]
     }       
     
     ,{
         "label":"Letter to William (GU) from Florence J. (Deadwood),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref56",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1533"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1533"
-        ]
     }       
     
     ,{
         "label":"Postal card to William (GU) from Frank (Deadwood),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref57",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1566"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1566"
-        ]
     }       
     
     ,{
         "label":"Letter to William (GU) from F.A. Brogan (KS),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref59",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1616"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1616"
-        ]
     }       
     
     ,{
         "label":"Letter to Williams (GU) from Annie Dickerson (Colorado Springs, CO),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref60",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1649"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1649"
-        ]
     }       
     
     ,{
         "label":"Invitation to GU Medical Department commencement and card of graduate Dudley Morgan; program also present; to William (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref61",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1682"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1682"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Annie Dickerson (Colorado Springs, CO),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref63",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1732"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1732"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from ?,",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref64",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1765"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1765"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.F. McGahan (Hanover, NH),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref65",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1798"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1798"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.F. McGahan (Charleston, SC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref66",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1831"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1831"
-        ]
     }       
     
     ,{
         "label":"Letter to William (unknown location) from Risa E. Smith (unknown location),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref68",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1881"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1881"
-        ]
     }       
     
     ,{
         "label":"Letter to William (?) from Joseph J. McCloskey (WDC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref69",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1914"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1914"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from P.X. Smith (Norfolk, VA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref70",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1947"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1947"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Joseph J. McCloskey (WDC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref71",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e1980"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e1980"
-        ]
     }       
     
     ,{
         "label":"Invitation to GU Medical Department commencement and card of graduate Louis A. Kengla; program also included; to William (Deadwood),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref72",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2013"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2013"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref74",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2081"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2081"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref75",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2114"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2114"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref76",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2147"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2147"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref77",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2180"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2180"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref78",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2213"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2213"
-        ]
     }       
     
     ,{
         "label":"Letter to William (unknown location) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref79",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2246"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2246"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref80",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2279"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2279"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref81",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2312"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2312"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref82",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2345"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2345"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref83",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2378"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2378"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref84",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2411"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2411"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref85",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2444"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2444"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref86",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2477"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2477"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref87",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2510"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2510"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref88",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2543"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2543"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref90",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2593"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2593"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref91",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2626"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2626"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref92",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2659"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2659"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref93",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2692"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2692"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref94",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2725"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2725"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref95",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2758"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2758"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref96",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2791"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2791"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref97",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2824"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2824"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Georgetown) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref98",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2857"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2857"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref99",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2890"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2890"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Georgetown) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref100",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2923"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2923"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref102",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e2973"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e2973"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Davisboro, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref103",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3006"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3006"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Deadwood) from A.C. Wright (Marlow, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref104",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3039"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3039"
-        ]
     }       
     
     ,{
         "label":"Postcard to William (Deadwood) from A.C. Wright (Marlow, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref105",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3072"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3072"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref107",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3122"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3122"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref108",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3155"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3155"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref109",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3188"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3188"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref110",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3221"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3221"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Washington, DC),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref111",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3254"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3254"
-        ]
     }       
     
     ,{
         "label":"Letter (photocopied) to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref112",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3287"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3287"
-        ]
     }       
     
     ,{
         "label":"Letter to William (unknown location) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref113",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3320"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3320"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref114",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3353"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3353"
-        ]
     }       
     
     ,{
         "label":"Letter to William (unknown location) from A.C. Wright (Savannah, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref115",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3386"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3386"
-        ]
     }       
     
     ,{
         "label":"Letter to William (unknown location) from A.C. Wright (Marlow, GA),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref116",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3419"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3419"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref120",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3487"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3487"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref123",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3520"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3520"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref124",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3553"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3553"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref118",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3586"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3586"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref122",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3619"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3619"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref121",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3652"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3652"
-        ]
     }       
     
     ,{
         "label":"Letter to Father and Mother from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref119",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3685"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3685"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref127",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3735"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3735"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref128",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3768"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3768"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref129",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3801"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3801"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref130",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3834","https://repository-dev.library.georgetown.edu/loris/#Cd0e3843"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3834","https://repository-dev.library.georgetown.edu/loris/#Cd0e3843"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref126",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3876"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3876"
-        ]
     }       
     
     ,{
         "label":"Letter to William (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref132",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3926"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3926"
-        ]
     }       
     
     ,{
         "label":"Letter to William and Mother (Deadwood) from Daniel (GU),",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#ref133",
         "@type":"sc:Range",
-        "ranges": [
+        
+                "canvases": [
+                "https://repository-dev.library.georgetown.edu/loris/#Cd0e3959"
+                ]                
             
-        ],
-        "canvases": [
-            "https://repository-dev.library.georgetown.edu/loris/#Cd0e3959"
-        ]
     }       
     
-            ],
+        ],
+        "sequences": [
+        {
+            "@id": "https://repository-dev.library.georgetown.edu/ead", 
+            "@type": "sc:Sequence", 
             "canvases": [
                 
     {
