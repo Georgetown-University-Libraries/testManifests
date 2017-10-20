@@ -51,15 +51,35 @@
         <xsl:variable name="cur" select="."/>
         <xsl:variable name="quote">"</xsl:variable>
         <xsl:variable name="val" select="translate(normalize-space($cur),$quote,'')"/>
+        <xsl:value-of select="$val"/>
+    </xsl:template>
+
+    <xsl:template match="ead:c01|ead:c02|ead:c03" mode="label">
+        <xsl:variable name="val">
+            <xsl:apply-templates select="ead:did/ead:unittitle" mode="cleantext"/>            
+        </xsl:variable>
         <xsl:choose>
-            <xsl:when test="$val"><xsl:value-of select="$val"/></xsl:when>
-            <xsl:otherwise>Default</xsl:otherwise>
+            <xsl:when test="$val!=''">
+                <xsl:value-of select="$val"/>
+            </xsl:when>
+            <xsl:when test="@level">
+                <xsl:value-of select="@level"/>
+                <xsl:if test="ead:did/ead:physdesc/ead:extent">
+                    <xsl:text>, </xsl:text>
+                    <xsl:apply-templates select="ead:did/ead:physdesc/ead:extent" mode="cleantext"/> 
+                </xsl:if>
+                <xsl:if test="ead:did/ead:unitdate">
+                    <xsl:text>, </xsl:text>
+                    <xsl:apply-templates select="ead:did/ead:unitdate" mode="cleantext"/> 
+                </xsl:if>
+            </xsl:when>
+            <xsl:otherwise>Label</xsl:otherwise>
         </xsl:choose>       
     </xsl:template>
-        
+    
     <xsl:template match="ead:c01|ead:c02|ead:c03" mode="range">
     ,{
-        "label":"<xsl:apply-templates select="ead:did/ead:unittitle" mode="cleantext"/>",
+        "label":"<xsl:apply-templates select="." mode="label"/>",
         "@id":"https://repository-dev.library.georgetown.edu/loris/#<xsl:value-of select="@id"/>",
         "@type":"sc:Range",
         <xsl:choose>
@@ -121,16 +141,32 @@
             "motivation": "sc:painting", 
             "on": "https://repository-dev.library.georgetown.edu/ead", 
             "resource": {
-                "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1536,
-                "width": 2048,                        
-                "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json", 
-                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                }
+            <xsl:choose>
+                <xsl:when test="starts-with(@ns2:href,'https://repository.library.georgetown.edu/bitstream')">
+                    "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg/full/full/0/default.jpg", 
+                    "@type": "dctypes:Image", 
+                    "format": "image/jpeg", 
+                    "height": 1536,
+                    "width": 2048,                        
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://repository-dev.library.georgetown.edu/loris/ead/lily1.jpg", 
+                        "profile": "http://iiif.io/api/image/2/level2.json"
+                    }                   
+                </xsl:when>
+                <xsl:otherwise>
+                    "@id": "https://<xsl:value-of select="@ns2:href"/>/full/full/0/default.jpg", 
+                    "@type": "dctypes:Image", 
+                    "format": "image/jpeg", 
+                    "height": 1536,
+                    "width": 2048,                        
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "<xsl:value-of select="@ns2:href"/>", 
+                        "profile": "http://iiif.io/api/image/2/level2.json"
+                    }                   
+                </xsl:otherwise>
+            </xsl:choose>   
             }
         }
         ]
