@@ -10,6 +10,8 @@ Experimental Manifests for IIIF
   
 - [Loris 3   ](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json)
 - [EAD with Item Level Metadata](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ead.json)
+  - This manifest was generated from an Archivist Toolkit EAD file
+  - The last 2 items in the manifest contain real images
 
 
 ## TODOs
