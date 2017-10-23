@@ -15,7 +15,7 @@ Experimental Manifests for IIIF
 
 
 ## TODOs
-- Create manifest from EAD
+- Create manifest from EAD with no item metadata
 - TODO - overlay text extract into sample files 
 - Enable the generation of a manifest for item bitstreams (original or other bundle)
 
