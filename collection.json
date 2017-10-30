@@ -5,25 +5,12 @@
   "label": "Top Level Collection for Example Organization",
   "description": "Description of Collection",
   "attribution": "Provided by Example Organization",
-  "metadata" : [
-    {
-      "label": "Collection Label",
-      "value" : "This manifest is part of a larger collection"
-    }
-  ],
-
   "collections": [
   ],
   "manifests": [
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json",
       "@type": "sc:Manifest",
-      "label" : "Digitized Manuscript Example",
-      "metadata" : [
-        {
-          "label": "Manifest Label",
-          "value" : "This is a manifest label defined in the collection"
-        }
-      ]
+      "label" : "Digitized Manuscript Example"
     },
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
       "@type": "sc:Manifest",
