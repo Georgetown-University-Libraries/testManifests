@@ -1,6 +1,8 @@
 ---
 ### IIIF Prototyping
 
+LTCC Update - Oct 31, 2017
+
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
 ---
@@ -109,16 +111,30 @@
   - This manifest was generated from an Archivist Toolkit EAD file
   - The last 2 items in the manifest contain real images
   - TBD: Leah will provide another EAD with no item level metadata
+  
+---
+
+### EAD Manifest
+- EAD Created in Archivist Toolkit
+- EAD exported as XML
+- Manifest generated with XSLT
+- Image paths manually edited to point to our image server
+  
 +++?image=screenshots/ead.png
 
 ---
 
-### Next Steps - Where to Store Manage/Assets
+### Next Steps - Where to Store Manage/Assets?
 
 - Image Files
   -  Store Preservation Files in DG (Preservation Bundle)
   -  Store Preservation Files in Image Server Directories 
   -  Generate Component Images from Master Images (Original Bundle)
+
+---
+
+### Next Steps - Where to Store Manage/Assets?
+
 - Manifests
   - Store Manifest files in DG (Metadata Bundle)
   - Generate Manifest files from DG
