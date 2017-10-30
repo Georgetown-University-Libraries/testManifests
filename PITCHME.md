@@ -55,13 +55,16 @@ LTCC Update - Oct 31, 2017
 ### Prototyping Status
 
 - LIT has installed image servers on a development server
-  - Cantaloupe
-  - Digilib
-  - Loris - most promising solution
+  - [Cantaloupe](https://medusa-project.github.io/cantaloupe/)
+  - [Digilib](http://digilib.sourceforge.net/iiif-api.html)
+  - [Loris](https://github.com/loris-imageserver/loris)
+    - most promising solution
   
 --- 
 
 ### Sample Manifests using Loris and Universal Viewer
+- Manifest files must be publicly accessible for use by published iiif tools
+- These demonstrations point to image resources that require library network or VPN accesss
 
 ---
 
