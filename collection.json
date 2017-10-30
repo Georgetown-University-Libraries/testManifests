@@ -12,6 +12,10 @@
       "@type": "sc:Manifest",
       "label" : "Digitized Manuscript Example"
     },
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1seq.json",
+      "@type": "sc:Manifest",
+      "label" : "Digitized Manuscript Example with Ranges"
+    },
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
       "@type": "sc:Manifest",
       "label" : "Digitized Manuscript Example with Irregular Page Orientation"
