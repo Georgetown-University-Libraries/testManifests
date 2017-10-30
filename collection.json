@@ -5,21 +5,33 @@
   "label": "Top Level Collection for Example Organization",
   "description": "Description of Collection",
   "attribution": "Provided by Example Organization",
+  "metadata" : [
+    {
+      "label": "Collection Label",
+      "value" : "This manifest is part of a larger collection"
+    }
+  ],
 
   "collections": [
   ],
   "manifests": [
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json",
       "@type": "sc:Manifest",
-      "label" : "Loris 1"
+      "label" : "Digitized Manuscript Example",
+      "metadata" : [
+        {
+          "label": "Manifest Label",
+          "value" : "This is a manifest label defined in the collection"
+        }
+      ]
     },
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json",
       "@type": "sc:Manifest",
-      "label" : "Loris 2"
+      "label" : "Digitized Manuscript Example with Irregular Page Orientation"
     },
     { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json",
       "@type": "sc:Manifest",
-      "label" : "Loris 3"
+      "label" : "Comic Images and Supplemental Material"
     }
   ]
 }
