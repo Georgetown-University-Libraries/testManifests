@@ -37,9 +37,9 @@
 
 [Presentation on IIIF to Seattle Java User's Group](https://github.com/terrywbrady/iiif-seajug/blob/master/README.md)
 
----  Why IIIF for DigitalGeorgetown?
+---  
 
-### Digital Repository Challenges
+### Why Use IIIF?
 
 - Provide low-resolution versions of images for low-bandwidth users |
 - Provide high-resolution versions of images for interested users |
@@ -66,34 +66,40 @@
 ### Manuscript
 - [Loris 1 - Manuscript](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1.json)
 
++++?image=screenshots/loris1.png
 ---
 
 ### Manuscript with Irregular Page Orientation from Oritinal Tifs
 - [Loris 2 - Manuscript with Irregular Page Orientation - Original Tifs](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris2.json)
   - This contains 8 tifs from a digitized manuscript
++++?image=screenshots/loris2.png
 
 ---
 
 ### Manuscript with Irregular Page Orientation Generated from PDF Source File
 - [Loris 2 - Full Manuscript Generated from PDF](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/burst1.json)  
   - TBD: Apply full text overlay extracted from PDF
-  
++++?image=screenshots/loris2gen.png
+
 ---
 
 ### Collection of Objects and Documents
   
 - [Loris 3 - Collection of Objects and Documents](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris3.json)
++++?image=screenshots/loris3.png
 
 ---
 
 ### Manuscript with Range Overlays
 - [Loris 1 - Manuscripts With Range Overlays](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/loris1seq.json)
++++?image=screenshots/loris1range.png
 
 ---
 
 ### Collection of Multiple Manifests
 
 - [Collection](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/collection.json)
++++?image=screenshots/coll.png
 
 ---
 
@@ -103,19 +109,19 @@
   - This manifest was generated from an Archivist Toolkit EAD file
   - The last 2 items in the manifest contain real images
   - TBD: Leah will provide another EAD with no item level metadata
++++?image=screenshots/ead.png
 
 ---
 
 ### Next Steps - Where to Store Manage/Assets
 
-Image Files
-- 1. Store Preservation Files in DG (Preservation Bundle)
-- 2. Store Preservation Files in Image Server Directories 
-- 3. Generate Component Images from Master Images (Original Bundle)
-
-Manifests
-- Store Manifest files in DG (Metadata Bundle)
-- Generate Manifest files from DG
+- Image Files
+  -  Store Preservation Files in DG (Preservation Bundle)
+  -  Store Preservation Files in Image Server Directories 
+  -  Generate Component Images from Master Images (Original Bundle)
+- Manifests
+  - Store Manifest files in DG (Metadata Bundle)
+  - Generate Manifest files from DG
 
 ---
 
