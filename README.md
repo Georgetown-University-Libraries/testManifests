@@ -1,3 +1,5 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+
 # testManifests
 Experimental Manifests for IIIF
 
