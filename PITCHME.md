@@ -1,7 +1,7 @@
 ---
 ### IIIF Prototyping
 
-LTCC Update - Oct 31, 2017
+Georgetown University Library IT
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
@@ -113,9 +113,8 @@ LTCC Update - Oct 31, 2017
 - [EAD with Item Level Metadata](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ead.json)
   - This manifest was generated from an Archivist Toolkit EAD file
   - The last 2 items in the manifest contain real images
-  - TBD: Leah will provide another EAD with no item level metadata
   
----
++++
 
 ### EAD Manifest
 - EAD Created in Archivist Toolkit
@@ -128,6 +127,7 @@ LTCC Update - Oct 31, 2017
 ---
 
 ### Hierarchical Collection Generated from File System (boxes/folders) and EAD with Minimal Metadata
+- [EAD without Item Level Metadata](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ead2.json)
 
 +++?image=screenshots/ead2.png
 
@@ -139,7 +139,7 @@ LTCC Update - Oct 31, 2017
   -  Store Preservation Files in DG (Preservation Bundle)
   -  Store Preservation Files in Image Server Directories
   -  Generate Component Images from Master Images (Original Bundle)
-- Decision: Store Preservation Files in Image Server Directories
+- Decision: Store Preservation Files in Image Server Directories <!-- .element: class="red"-->
 
 ---
 
@@ -148,7 +148,7 @@ LTCC Update - Oct 31, 2017
 - Manifests
   - Store Manifest files in DG (Metadata Bundle)
   - Generate Manifest files from DG
-- Decision: Store Manifest files in DG (Metadata Bundle)
+- Decision: Store Manifest files in DG (Metadata Bundle) <!-- .element: class="red"-->
 ---
 
 ### Next Steps - Manifest Creation
@@ -156,7 +156,7 @@ LTCC Update - Oct 31, 2017
 - Manually Edited and Enriched
 - Generated from DSpace
 
-- Decision: Generate from File System, EAD, Manual Editing
+- Decision: Generate from File System, EAD, Manual Editing <!-- .element: class="red"-->
 ---
 
 ### Next Steps - Capacity Planning
@@ -165,7 +165,7 @@ LTCC Update - Oct 31, 2017
   - Server Impact of Asset Storage Choice
   - Run image server on the DG server?
 - Storage impact of IIIF Asset Creation
-- Decision: Run image server on separate box from DSpace
+- Decision: Run image server on separate box from DSpace <!-- .element: class="red"-->
 
 ---
 
@@ -174,5 +174,5 @@ LTCC Update - Oct 31, 2017
 - Use IIIF for future digitized assets
 - Use IIIF for existing digitized assets
   - Would re-digitization be needed?
-- Decison: Focus on Hiearchical Collections and Images Benefitting from Higher Resolution
+- Decision: Focus on Hiearchical Collections and Images Benefitting from Higher Resolution <!-- .element: class="red"-->
   - Selected on a Case-by-case basis
