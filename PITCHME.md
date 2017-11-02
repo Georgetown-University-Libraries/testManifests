@@ -127,12 +127,19 @@ LTCC Update - Oct 31, 2017
 
 ---
 
+### Hierarchical Collection Generated from File System (boxes/folders) and EAD with Minimal Metadata
+
++++?image=screenshots/ead2.png
+
+---
+
 ### Next Steps - Where to Store Manage/Assets?
 
 - Image Files
   -  Store Preservation Files in DG (Preservation Bundle)
-  -  Store Preservation Files in Image Server Directories 
+  -  Store Preservation Files in Image Server Directories
   -  Generate Component Images from Master Images (Original Bundle)
+- Decision: Store Preservation Files in Image Server Directories
 
 ---
 
@@ -141,14 +148,15 @@ LTCC Update - Oct 31, 2017
 - Manifests
   - Store Manifest files in DG (Metadata Bundle)
   - Generate Manifest files from DG
-
+- Decision: Store Manifest files in DG (Metadata Bundle)
 ---
 
 ### Next Steps - Manifest Creation
 
 - Manually Edited and Enriched
-- Generated
+- Generated from DSpace
 
+- Decision: Generate from File System, EAD, Manual Editing
 ---
 
 ### Next Steps - Capacity Planning
@@ -157,6 +165,7 @@ LTCC Update - Oct 31, 2017
   - Server Impact of Asset Storage Choice
   - Run image server on the DG server?
 - Storage impact of IIIF Asset Creation
+- Decision: Run image server on separate box from DSpace
 
 ---
 
@@ -165,4 +174,5 @@ LTCC Update - Oct 31, 2017
 - Use IIIF for future digitized assets
 - Use IIIF for existing digitized assets
   - Would re-digitization be needed?
-
+- Decison: Focus on Hiearchical Collections and Images Benefitting from Higher Resolution
+  - Selected on a Case-by-case basis
