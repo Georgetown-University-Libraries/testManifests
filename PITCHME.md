@@ -146,7 +146,7 @@ LTCC Update - Oct 31, 2017
 
 ### Next Steps - Manifest Creation
 
-- Manually Edited aand Enriched
+- Manually Edited and Enriched
 - Generated
 
 ---
