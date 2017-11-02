@@ -8,3 +8,5 @@ slide-number: true
 background-size : contain
 
 published: true
+
+theme-override : PITCHME.css
