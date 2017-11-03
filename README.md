@@ -19,7 +19,8 @@ Experimental Manifests for IIIF
   - The contents were linked by box number and file number
   - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/CreateIIIFManifestEAD.java
   - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/IIIFManifestEAD.java 
-- [Hoya Issues](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoyacoll.json)
+- [Hoya Issues](https://repository-dev.library.georgetown.edu/uv-202/app.html?manifestUri=https://repository-dev.library.georgetown.edu/manifests/hoyacoll.json)
+  - Generated manifests are not publicly available
 
 
 ## TODOs
