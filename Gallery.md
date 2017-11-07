@@ -33,7 +33,14 @@
 ![screenshot](screenshots/ua_photos.png)
 
 -  [Manifest](ua_photos.json)
-
+- Inputs
+  - 499 DSpace AIP Export folders each containing a Jpg file and item level metadata in mets.xml file
+- Each folder is processed
+  - A canvas is added to the overall sequence
+  - Subject Indexing
+    - A range is created for each unique subject term for the item (stored in a hash map by subject term)
+    - A range is created for an individual canvas (we will call this the item range)
+    - The item range is linked below the subject range.  This allows non-sequential items to be grouped together.
 
 ### Photo Gallery Created from DSpace AIP Exports with Subject and Date Indexes
 ![screenshot](screenshots/ua_photos2.png)
@@ -41,7 +48,17 @@
 - [Manifest](ua_photos2.json)
 - Inputs
   - 499 DSpace AIP Export folders each containing a Jpg file and item level metadata in mets.xml file
-- Generated from DSpace AIP Exports
+- Each folder is processed
+  - A canvas is created and stored into a hash based on the item creation date
+    - Canvas records are written to the sequence in creation date order  
+  - Date indexing
+    - A range is created for each decade associated with a creation date
+    - Canvas references are linked to the appropriate decade range
+    - Since items are added in date order, the images can be browsed by creation date
+  - Subject Indexing
+    - A range is created for each unique subject term for the item (stored in a hash map by subject term)
+    - A range is created for an individual canvas (we will call this the item range)
+    - The item range is linked below the subject range.  This allows non-sequential items to be grouped together.
 - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/CreateIIIFManifestAIP.java
 - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/IIIFManifestAIP.java 
 
