@@ -8,23 +8,23 @@
   "collections": [
   ],
   "manifests": [
-    { "@id": "https://repository-dev.library.georgetown.edu/manifests/hoya1.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya1.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 1"
     },
-    { "@id": "https://repository-dev.library.georgetown.edu/manifests/hoya2.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya2.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 2"
     },
-    { "@id": "https://repository-dev.library.georgetown.edu/manifests/hoya31.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya31.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 3"
     },
-    { "@id": "https://repository-dev.library.georgetown.edu/manifests/hoya6.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya6.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 6"
     },
-    { "@id": "https://repository-dev.library.georgetown.edu/manifests/hoya7.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya7.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 7"
     }
