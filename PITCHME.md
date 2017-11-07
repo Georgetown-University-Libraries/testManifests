@@ -133,6 +133,13 @@ Georgetown University Library IT
 
 ---
 
+### Photo Gallery Created from DSpace AIP Exports
+- [Photo Gallery DSpace AIP Export](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos.json)
+
++++?image=screenshots/ua_photos.png
+
+---
+
 ### Next Steps - Where to Store Manage/Assets?
 
 - Image Files
