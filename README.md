@@ -22,8 +22,10 @@ Experimental Manifests for IIIF
 - [Hoya Issues](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoyacoll.json)
 - [Photo Gallery with Subject Index](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos.json)
   - Generated from DSpace AIP
-- [Photo Gallery with Subject Index and Date Index](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos.json)
+- [Photo Gallery with Subject Index and Date Index](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos2.json)
   - Generated from DSpace AIP
+  - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/CreateIIIFManifestAIP.java
+  - https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/IIIFManifestAIP.java 
 
 
 ## TODOs

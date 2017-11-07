@@ -16,7 +16,7 @@
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 2"
     },
-    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya31.json",
+    { "@id": "https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoya3.json",
       "@type": "sc:Manifest",
       "label" : "Hoya Vol 12, No 3"
     },
