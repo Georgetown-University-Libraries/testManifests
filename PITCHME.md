@@ -140,6 +140,12 @@ Georgetown University Library IT
 
 ---
 
+### Photo Gallery with Subject and Date Indexes
+- [Photo Gallery with Subject and Date Indexes](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos2.json)
+
++++?image=screenshots/ua_photos2.png
+---
+
 ### Next Steps - Where to Store Manage/Assets?
 
 - Image Files
