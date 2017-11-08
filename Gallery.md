@@ -14,7 +14,9 @@
   - EAD File with item level metadata
   - PDF docements exported as jpg
   - Image paths manually edited into the EAD file
-- This manifest was generated from an Archivist Toolkit EAD file [XSLT Transform](eadConv/ead2Manifest.xsl)
+- This manifest was generated from an Archivist Toolkit EAD file 
+- Code 
+  - [ead2Manifest.xsl](eadConv/ead2Manifest.xsl)
 
 ## Automated Manifest Generation from File System Resouces
 
