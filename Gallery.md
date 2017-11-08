@@ -86,3 +86,7 @@ The following [File Analyzer](https://github.com/Georgetown-University-Libraries
 - Code
   - [CreateIIIFManifestDC.java](https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/CreateIIIFManifestDC.java)
   - [IIIFManifestDC.java](https://github.com/Georgetown-University-Libraries/File-Analyzer/blob/iiif/demo/src/main/edu/georgetown/library/fileAnalyzer/filetest/IIIFManifestDC.java) 
+
+---
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Georgetown-University-Libraries/testManifests)
+  
