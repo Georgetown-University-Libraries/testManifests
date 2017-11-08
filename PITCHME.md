@@ -144,6 +144,14 @@ Georgetown University Library IT
 - [Photo Gallery with Subject and Date Indexes](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ua_photos2.json)
 
 +++?image=screenshots/ua_photos2.png
+
+---
+
+### Multiple Newspaper issues in a Collection Manifest
+- [Multiple Newspaper issues in a Collection Manifest](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/hoyacoll.json)
+
++++?image=screenshots/hoya.png
+
 ---
 
 ### Next Steps - Where to Store Manage/Assets?
