@@ -1,7 +1,11 @@
-## Gallery of IIIF Manifest Experimentation
+## DSpace Integration 
+
+![screenshot](screenshots/dgInteg.png)
+![screenshot](screenshots/dgInteg2.png)
+
+## Gallery of IIIF Manifest Prototypes
 
 ### Manuscript with Irregular Page Orientation Generated from PDF Source File
-![screenshot](screenshots/loris2gen.png)
 
 - [Manifest](burst1.json)
 
