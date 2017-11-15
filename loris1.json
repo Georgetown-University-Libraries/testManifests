@@ -154,5 +154,18 @@
   ],
   "@context":"http://iiif.io/api/presentation/2/context.json",
   "@id":"https://repository-dev.library.georgetown.edu/loris",
-  "@type":"sc:Manifest"
+  "@type":"sc:Manifest",
+   "service":[  
+      {  
+         "@context":"http://iiif.io/api/search/0/context.json",
+         "@id":"https://ocr.lib.ncsu.edu/search/nubian-message-1995-04-01",
+         "profile":"http://iiif.io/api/search/0/search",
+         "label":"Search within this thing",
+         "service":{  
+            "@id":"https://ocr.lib.ncsu.edu/suggest/nubian-message-1995-04-01",
+            "profile":"http://iiif.io/api/search/0/autocomplete",
+            "label":"Get suggested words"
+         }
+      }
+   ]
 }
