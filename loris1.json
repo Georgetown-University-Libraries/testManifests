@@ -29,6 +29,7 @@
               "@type":"oa:Annotation"
             }
           ],
+          "otherContent" : ["foo","bar","zing"],
           "label":"0007.tif",
           "@id":"https://repository-dev.library.georgetown.edu/loris/1",
           "@type":"sc:Canvas"
