@@ -29,7 +29,9 @@
               "@type":"oa:Annotation"
             }
           ],
-          "otherContent" : ["foo","bar","zing"],
+          "otherContent" : [
+            {"resource": {"@type": "cnt:ContentAsText", "chars": "text here"}}
+          ],
           "label":"0007.tif",
           "@id":"https://repository-dev.library.georgetown.edu/loris/1",
           "@type":"sc:Canvas"
@@ -158,11 +160,9 @@
    "service":[  
       {  
          "@context":"http://iiif.io/api/search/0/context.json",
-         "@id":"https://ocr.lib.ncsu.edu/search/nubian-message-1995-04-01",
          "profile":"http://iiif.io/api/search/0/search",
          "label":"Search within this thing",
          "service":{  
-            "@id":"https://ocr.lib.ncsu.edu/suggest/nubian-message-1995-04-01",
             "profile":"http://iiif.io/api/search/0/autocomplete",
             "label":"Get suggested words"
          }
