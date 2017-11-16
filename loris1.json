@@ -30,7 +30,11 @@
             }
           ],
           "otherContent" : [
-            {"resource": {"@type": "cnt:ContentAsText", "chars": "text here"}}
+            {  
+              "@id":"http://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
+              "@type":"sc:AnnotationList",
+              "label":"Text of this page (word level)"
+            }
           ],
           "label":"0007.tif",
           "@id":"https://repository-dev.library.georgetown.edu/loris/1",
