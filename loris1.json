@@ -163,12 +163,12 @@
   "@type":"sc:Manifest",
    "service":[  
       {  
-         "@id": "https://gist.githubusercontent.com/terrywbrady/360a887561c3280a47ad4081b50adcee/raw/65a98dfbaa149398879c98c7dc5f67c8756cdca2/hocr.json",
+         "@id": "https://repository-dev.library.georgetown.edu/loris/search",
          "@context":"http://iiif.io/api/search/0/context.json",
          "profile":"http://iiif.io/api/search/0/search",
          "label":"Search within this thing",
          "service":{  
-            "@id": "https://gist.githubusercontent.com/terrywbrady/360a887561c3280a47ad4081b50adcee/raw/65a98dfbaa149398879c98c7dc5f67c8756cdca2/hocr.json",
+            "@id": "https://repository-dev.library.georgetown.edu/loris/search",
             "profile":"http://iiif.io/api/search/0/autocomplete",
             "label":"Get suggested words"
          }
