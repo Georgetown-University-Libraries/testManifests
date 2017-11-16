@@ -31,7 +31,7 @@
           ],
           "otherContent" : [
             {  
-              "@id":"http://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
+              "@id":"https://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
               "@type":"sc:AnnotationList",
               "label":"Text of this page (word level)"
             }
@@ -163,12 +163,12 @@
   "@type":"sc:Manifest",
    "service":[  
       {  
-         "@id": "http://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
+         "@id": "https://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
          "@context":"http://iiif.io/api/search/0/context.json",
          "profile":"http://iiif.io/api/search/0/search",
          "label":"Search within this thing",
          "service":{  
-            "@id": "http://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
+            "@id": "https://ronallo.com/files/image-search-lunr/ua011_006-001-cn0001-032-001_0007-20-4ada22d3.json",
             "profile":"http://iiif.io/api/search/0/autocomplete",
             "label":"Get suggested words"
          }
