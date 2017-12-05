@@ -15,14 +15,14 @@ https://github.com/terrywbrady/info
 - Institutional Repository
 - Digitized Collections
 
----
++++
 ### Outstanding Challenges that IIIF might Solve
 
 - Current book viewer/manuscript viewer skews images
 - Archival/hierarchical collections are difficult to present in DSpace
 - Presenting Image Collections
 
----
++++
 ### Current Goals (Evolving)
 
 - Address outstanding challenges
@@ -30,7 +30,7 @@ https://github.com/terrywbrady/info
 - Leverage existing metadata and metadata editing tools
 - Present higher resolution media than the access copies currently in DSpace
 
----
++++
 ### Current Status
 - Loris Installed on a development server
 - Universal Viewer is our target viewer
@@ -87,4 +87,16 @@ https://github.com/terrywbrady/info
 ---?image=slideshow/Slide10.JPG
 
 ---
+### Universal Viewer Integration within a DSpace Collection
+
++++?image=screenshots/dgInteg.png
+
++++?image=screenshots/dgInteg2.png
+
+---
 ### Next Steps
+- Explore IIIF Search for our Newspaper Collection
+- Deploy the Image Server to Production
+- Capacity Planning
+- Determine how the repository fits into the workflow
+- Determine what assets require preservation storage
