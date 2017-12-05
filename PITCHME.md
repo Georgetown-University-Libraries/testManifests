@@ -108,9 +108,9 @@ https://github.com/terrywbrady/info
 
 ---
 ### Next Steps
-- Explore IIIF Search for our Newspaper Collection
-- Deploy the Image Server to Production
-- Capacity Planning
+- Explore IIIF Search for our newspaper collection
+- Deploy the image server to production
+- Capacity planning
 - Determine how the repository fits into the workflow
 - Determine which assets require preservation storage
 
