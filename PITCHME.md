@@ -94,10 +94,10 @@ https://github.com/terrywbrady/info
 ### File Analyzer - Our Automation Tool for Digitization Projects
 - https://github.com/Georgetown-University-Libraries/File-Analyzer
 - Checksum verification
-- Prepares DSpace Ingest Folders
-- Generates APTrust Bag Files
-- Prepares ETD Ingest Files
-- Future: Manifest Generator Tool
+- Prepares DSpace ingest folders
+- Generates APTrust bag files
+- Prepares ETD ingest files
+- Future: IIIF manifest generator tool
 
 ---
 ### Universal Viewer Integration within a DSpace Collection
