@@ -1,6 +1,8 @@
 ---
 ### IIIF Manifest Prototyping at Georgetown
 
+Terry Brady 
+
 Georgetown University Library
 
 https://github.com/terrywbrady/info
@@ -35,6 +37,7 @@ https://github.com/terrywbrady/info
 - Loris Installed on a development server
 - Universal Viewer is our target viewer
 - Exploring Search Service Options
+- *Note: The manifests used in this presentation are public, but the image resources are not yet publicly available*
 
 ---?image=slideshow/Slide3.JPG
 
@@ -86,6 +89,15 @@ https://github.com/terrywbrady/info
 
 ---?image=slideshow/Slide10.JPG
 
++++ 
+### File Analyzer - Our Automation Tool for Digitization Projects
+- https://github.com/Georgetown-University-Libraries/File-Analyzer
+- Checksum verification
+- Prepares DSpace Ingest Folders
+- Generates APTrust Bag Files
+- Prepares ETD Ingest Files
+- Future: Manifest Generator Tool
+
 ---
 ### Universal Viewer Integration within a DSpace Collection
 
@@ -100,3 +112,14 @@ https://github.com/terrywbrady/info
 - Capacity Planning
 - Determine how the repository fits into the workflow
 - Determine what assets require preservation storage
+
+---
+### Thank You
+
+Terry Brady
+
+Georgetown University Library
+
+https://github.com/terrywbrady/info
+
+![Georgetown Library Logo](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
