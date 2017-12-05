@@ -99,6 +99,11 @@ https://github.com/terrywbrady/info
 - Prepares ETD ingest files
 - Future: IIIF manifest generator tool
 
++++?image=screenshots/FA1.png
+
++++?image=screenshots/FA2.png
+
+
 ---
 ### Universal Viewer Integration within a DSpace Collection
 
