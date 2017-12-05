@@ -20,7 +20,7 @@ https://github.com/terrywbrady/info
 +++
 ### Outstanding Challenges that IIIF might Solve
 
-- Current book viewer/manuscript viewer skews images
+- Our current book viewer viewer skews images 
 - Archival/hierarchical collections are difficult to present in DSpace
 - Presenting Image Collections
 
@@ -58,6 +58,7 @@ https://github.com/terrywbrady/info
 - [EAD with Item Level Metadata](http://universalviewer.io/uv.html?manifest=https://raw.githubusercontent.com/Georgetown-University-Libraries/testManifests/master/ead.json)
   - This manifest was generated from an Archivist Toolkit EAD file
   - The last 2 items in the manifest contain real images
+  - The remaining items are linked to a placeholder image
   
 ---?image=slideshow/Slide5.JPG
 
@@ -111,7 +112,7 @@ https://github.com/terrywbrady/info
 - Deploy the Image Server to Production
 - Capacity Planning
 - Determine how the repository fits into the workflow
-- Determine what assets require preservation storage
+- Determine which assets require preservation storage
 
 ---
 ### Thank You
