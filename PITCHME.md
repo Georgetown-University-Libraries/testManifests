@@ -20,7 +20,7 @@ https://github.com/terrywbrady/info
 +++
 ### Outstanding Challenges that IIIF might Solve
 
-- Our current book viewer viewer skews images 
+- Our current book viewer skews images 
 - Archival/hierarchical collections are difficult to present in DSpace
 - Presenting Image Collections
 
